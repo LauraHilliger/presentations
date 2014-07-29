@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv = "Content-Type" content = "text/html; charset=utf-8"/>
+        <meta charset="utf-8">
+        <meta name = "viewport" content = "user-scalable=no"/> 
+        
+        <title>Web Literacy in Adults</title>  <!-- Sets the title of your presentation on the browser tab -->
+        
+        <script src="../js/LAB.min.js"></script>
+        <script>
+             $LAB
+            .script("../js/jquery.min.js").wait()
+            .script("../js/sylvester.js")
+            .script("../js/jquery.animtrans.js").wait()        
+            .script("../js/purecssmatrix.js").wait()
+            .script("../js/md5.js")
+            .script("../js/jquery-impromptu.3.1.min.js")
+            .script("../js/jquery.zoomooz.js")
+            .script("../js/jquery.doubletap.js")
+            .script("../jquery.touchwipe.min.js")
+            .script("../js/slide.control.1.2.js");
+        </script>
+       
+        <link rel="stylesheet" href="../styles/zoomooz.css" type="text/css" media="screen">
+        <link rel="stylesheet" href="../styles/jqi.css" type="text/css" media="screen">
+        <link rel="stylesheet" href="../styles/slide-style.css" type="text/css" media="screen">
+      
+        
+        
+        <style type="text/css">
+        
+              /* **************    CSS Classes that define slide background colors    **************** */
+            .no-fade  { background-image: none; } /* The no-fade class disables the background fade effect */
+                
+                     </style>
+        
+    <link href="css/popcorn-slide.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <noscript><h2>You really need to have Javascript enabled.</h2></noscript>
+        
+        <div id="container" class="themePop"> <!-- Set default theme by changing the class  
+                                                  Press keys 1 through 0 to change theme  
+                                                  Themes are defined in slide-themes.css   -->
+                    
+            <!--*****************************************************************************************
+            *
+            *   To create a new slide make a <div> and give it the slide class and a color class.
+            *
+            *   Examples: 
+            *
+            *         <div class="slide green" >  ..some slide content... </div>
+            *  
+            *       <div class="slide red no-fade>  ...content... </div>
+            *  
+            *       <div class="slide blue break>  ...content... </div>
+            *
+            *   Only colors defined as classes above will work, but you can define your own.
+            *
+            *   The no-fade class disables the background color fade effect.
+            *                        
+            *******************************************************************************************-->
+         
+             
+                <!-- You can make "autosets" of slides from PDFs of presentations.
+                 
+                    To specify a slide autoset, put a set of images files into a
+                    web accessible directory. Name them something like name-01 ... name-XX,
+                    create a div with:  class = "autoset"
+                    id            = a unique name for the set of slides
+                    data-source    = the location of the slides on the web
+                    data-prefix    = the slide name prefix
+                    data-type    = the file type
+                    data-count    = the number of slides in the set
+                    
+                    You can have more than one autoset, and you can freely intermix regular 
+                    slides and autosets.
+                    
+                    To create a directory of slides from a pdf (on a Mac)
+                    1 - Open the pdf in Preview and choose File > Print
+                    2 - Click on the PDF button (at the bottom) and choose Print to iPhoto
+                    3 - Open iPhoto and select the album containing your slides
+                    4 - Choose File > Export and change the File Name dropdown to "Sequential" 
+                -->
+                
+                
+                <!--  Uncomment this example and edit to suit.   Move it anywhere in the sequence
+                        
+                <div class="autoset" id="set01" 
+                    data-source    ="./small" 
+                    data-prefix = "slide-"
+                    data-type    = ".jpg"
+                    data-count    = "60"    
+                ></div>
+                     
+                -->
+         
+         
+               <!--**************************  A Slide   ******************************-->
+        
+                <div class="slide themePop" >
+                    <div class='slideBody'>
+                         <div class='autoBox highlight'>
+                         	<div class="image">
+	                         	<img src="../images/startbild.jpg" width="350px"/>
+	                         	<p class="attribution">Photo by <a href="http://www.flickr.com/photos/teleyinex/">Teleyinex</a></p>
+		                    </div>
+							<h1>Web Literacy in Adults</h1>
+							<h2>An Educational Approach Using Game Mechanics in Curriculum to Teach Web Literacy in Adults</h2>
+							<h3> by Laura Hilliger</h3>
+							<br/><br/><br/>
+							<p>A Master Thesis Presented to the Zentrum für Qualitätssicherung in Studium und Weiterbildung  of the <a href="http://www.uni-rostock.de"/>University of Rostock</a>. In partial fulfillment of the requirements for the degree of <a href="http://www.weiterbildung.uni-rostock.de/medienundbildung.html">Master of Arts in Media and Education</a></p>
+                        </div>
+                    </div> 
+                </div>
+                  <!--**************************  A Slide   ******************************-->
+                      <div class="slide themePop" >
+                    <div class='slideBody'>
+                         <div class='autoBox highlight'>
+                         	<div class="image">
+	                         	<img src="../images/internet-map-web.gif" width="350px"/>
+	                         	<p class="attribution">Photo by <a href="http://www.opte.org/maps/">Cisco</a></p>
+		                    </div>
+							<h1>We live in a digital world.</h1>
+							<ul>
+								<li>Our global knowledge ecosystem is the World Wide Web</li>
+								<li>The Internet has become an important piece of our infrastructure</li>
+								<li>We use the Internet to communicate, to work, to make decisions</li>
+								<li>We need it to fully participate</li>
+								
+							</ul>
+							
+							                        </div>
+                    </div> 
+                </div>
+                  <!--**************************  A Slide   ******************************-->
+                    
+                      <div class="slide themePop" >
+                    <div class='slideBody'>
+                         <div class='autoBox highlight'>
+                         	<div class="image">
+	                         	<img src="../images/legowall.jpg" width="350px"style="margin-bottom:35px;"/>
+		                    </div>
+							<h1>Understanding the Web is a part of being educated.</h1>
+							<ul>
+								<li>You are educated when you can think critically about key problems <em>(Klafki)</em></li>
+								<li>The Web holds the world's information and humanity's knowledge</li>
+								<li>It gives us an infrastructure to consider those problems and to help solve them</li>
+								
+							</ul>
+							
+							                        </div>
+                    </div> 
+                </div>
+                <!--**************************  A Slide   ******************************-->
+                 
+                      <div class="slide themePop" >
+                    <div class='slideBody'>
+                         <div class='autoBox highlight'>
+                         	<div class="image">
+	                         	<img src="../images/wordleintro.png" width="740px"/>
+		                    </div>
+							<h1>Technology keeps changing on us</h1>
+							<p style="font-size:24px;"><strong>Many people are not participating</strong> in the global exchange of knowledge, which supports us in thinking critically about key problems <strong>because they lack the skills to do so</strong></p>
+								
+							</ul>
+							
+							                        </div>
+                    </div> 
+                </div>
+                <!--**************************  A Slide   ******************************-->
+                <div class="slide themePop" >
+                    <div class='slideBody'>
+                         <div class='autoBox highlight'>
+                         	<div class="image">
+	                         	<img src="../images/webmakervideo.png" width="350px"/>
+		                    </div>
+							<h1>We're working on it</h1>
+							<ul>
+								<li>Education systems have begun using various technologies in the classroom, but educators are not necessarily competent in this area.</li>
+								<li>Adults are responsible for the education of the next generation</li>
+								<li>It isn't just about the use of technology, but the sharing of knowledge</li>
+								<li>Only <strong>29%</strong> of adults between 30 and 50 have <em>ever</em> contributed knowledge to the global knowledge network</li>
+								<li>Web Literacies are a vital part of our educational endeavors, so <strong>educators</strong> need to possess web literacies</li>
+								
+							
+							</ul>
+							
+							                        </div>
+                    </div> 
+                </div>
+              
+                <!--**************************  A Slide   ******************************-->
+                <div class="slide themePop" >
+                    <div class='slideBody'>
+                         <div class='autoBox highlight'>
+                         	<div class="image">
+	                         	<img src="images/interestgroups.png" width="740px"/>
+		                    </div>
+							<h1>Using a Pragmatic Approach</h1>
+							<ul>
+								<li>I wanted to contribute knowledge</li>
+								<li>I wanted to link theory and practice</li>
+								<li>I did not want to get hung up on strict rules</li>
+								<li>Working pragmatically allowed <strong><em>exploration, flexibility and discovery</em></strong></li>
+							
+							</ul>
+							
+							                        </div>
+                    </div> 
+                </div>
+                <!--**************************  A Slide   ******************************-->
+                <div class="slide themePop" >
+                    <div class='slideBody'>
+                         <div class='autoBox highlight'>
+                         	<div class="image">
+	                         	<img src="../images/macromodel.png" width="740px"/>
+		                    </div>
+							<h1>Finding a definition for "Web Literacies"</h1>
+							<p>Thanks to Dr. Doug Belshaw, Common Sense Media, Scratch, Michelle Levesque, Jeanette Wing and many more</p>
+							
+							                        </div>
+                    </div> 
+                </div>
+                 <!--**************************  A Slide   ******************************-->
+                 <div class="slide themePop" >
+                    <div class='slideBody'>
+                         <div class='autoBox highlight'>
+                         	<div class="image">
+	                         	<img src="../images/5-join-med.jpg" width="740px"/>
+	                         		<p class="attribution">Photo by <a href="http://www.openmatt.org">Matt Thompson</a></p>
+
+		                    </div>
+							<h1>Learning through Making</h1>
+							<ul>
+								<li>Interest driven, project based learning</li>
+								<li>Connecting head and hand</li>
+							</ul>
+							
+							                        </div>
+                    </div> 
+                </div>
+
+                <!--**************************  A Slide   ******************************-->
+
+                 <div class="slide themePop" >
+                    <div class='slideBody'>
+                         <div class='autoBox highlight'>
+                         	<div class="image">
+	                         	<img src="../images/badges.png" width="350px"/>
+		                    </div>
+							<h1>Gamification</h1>
+							<ul>
+								<li>Motivation</li>
+								<li>Practice</li>
+								<li>Intensity</li>
+								<li>embedded assessments and other game mechanics</li>
+							</ul>
+							
+							                        </div>
+                    </div> 
+                </div>
+                <!--**************************  A Slide   ******************************-->
+                   <div class="slide themePop" >
+                    <div class='slideBody'>
+                         <div class='autoBox highlight'>
+                         <h1>4 Levels at which Blended Learning can occur</h1>
+                         	<div class="image">
+	                         	<img src="../images/levels.jpg"/>
+		                    </div><br/>
+							<h1>Khan's Octagonal Framework for Meaningful E-Learning Experiences</h1>
+
+							<div>
+	                         	<img src="../images/khansframework.png" width="350px"style="margin-left:26%;"/>
+	                         		<p class="attribution">Graphic by <a href="http://www.badrulkhan.com">Badrul Khan</a></p>
+		                    </div>
+		                    
+							
+							
+							                        </div>
+                    </div> 
+                </div>
+                <!--**************************  A Slide   ******************************-->
+                 <div class="slide themePop" >
+                    <div class='slideBody'>
+                         <div class='autoBox highlight'>
+                         	<div class="image">
+	                         	<img src="../images/Webmaker-logo-big.png" width="740px"/>
+		                    </div>
+							<h1>Combining Methodologies</h1>
+							<ul>
+								<li>Interest Driven, Project-based Learning</li>
+								<li>where Khan's 8 Dimensions are considered</li>
+								<li>on each Blended Learning level</li>
+								<li>and content uses game mechanics</li>
+							</ul>
+							
+							                        </div>
+                    </div> 
+                </div>
+                <!--**************************  A Slide   ******************************-->
+                <div class="slide themePop" >
+                    <div class='slideBody'>
+                         <div class='autoBox highlight'>
+                         	<div class="image">
+	                         	<img src="../images/storycamp_logo.jpg" width="350px" style="margin-bottom:135px;"/>
+		                    </div>
+							<h1>Training the Teacher</h1>
+							<ul>
+								<li>focuses on educators working in Film and Media (interest driven)</li>
+								<li>has projects to complete (project based)</li>
+								<li>blends on each level, and in each dimension</li>
+								<li>and content uses game mechanics</li>
+							</ul>
+							
+							                        </div>
+                    </div> 
+                </div>
+                 <!--**************************  A Slide   ******************************-->
+                <div class="slide themePop" >
+                    <div class='slideBody'>
+                         <div class='autoBox highlight'>
+                         <div style="width:60%; float: left; padding-right: 30px;"> 
+						<h1>Learning Objectives</h1>
+							<ul>
+							<li>The first three groupings of web literacies</li>
+								<li>Web Native Filmmaking from the beginning</li>
+								<li>Tools and Techniques</li>
+								<li>Using the new knowledge in the classroom</li>
+							</ul>
+                         </div>
+                         <div>
+		            		<h1>OERs</h1>
+							<ul>
+							<li>Modular Content</li>
+								<li>Constituent Co-Designed</li>
+								<li>Feedback Loops</li>
+								<li>Rapid Prototyping</li>
+								<li>Playtesting </li> 
+							</ul>
+                         </div>
+							                        </div>
+                    </div> 
+                </div>
+
+                <!--**************************  A Slide   ******************************-->
+                <div class="slide themePop" >
+                    <div class='slideBody'>
+                         <div class='autoBox highlight'>
+                         	<div class="image">
+	                         	<img src="../images/kitchen.jpg" width="350px" style="margin-bottom:135px;"/>
+		                    </div>
+							<h1>Online Learning and Support with In-Person Workshops</h1>
+							<ul>
+							<li>Each level blends both the production and consumption of learning materials</li>
+								<li>various workshop formats target introductory, instructional or practical knowledge acquisition</li>
+								<li>in-person crash courses</li>
+								<li>online and offline materials</li>
+							</ul>
+							
+							                        </div>
+                    </div> 
+                </div>
+                               <!--**************************  A Slide   ******************************-->
+                                <div class="slide themePop" >
+                    <div class='slideBody'>
+                         <div class='autoBox highlight'>
+                         	<div class="image">
+	                         	<img src="../images/tools.png" width="350px" style="margin-bottom:135px;"/>
+		                    </div>
+							<h1>Six Weeks of Blended Learning</h1>
+							<ul>
+								<li>Partner Organizationen führen Präsenzveranstaltungen</li>
+								<li>Baseline Materiellen für jeder Partner Organizationen ist das gleiche, aber da ist noch flexibilität</li>
+								<li>Wir stützen uns gegenseitig an und Lernenden können sich jeder Zeit mit alle Beteiligte austauschen</li>
+								
+							</ul>
+							
+							                        </div>
+                    </div> 
+                </div>
+                               <!--**************************  A Slide   ******************************-->
+                 <div class="slide themePop" >
+                    <div class='slideBody'>
+                         <div class='autoBox highlight'>
+                         	<div class="image">
+	                         	<img src="../images/eval.jpg" width="740px"/>
+		                    </div>
+							<h1>Evaluation</h1>
+							<ul>
+							<li>Modularized and co-designed content = the need for ongoing evaluations</li>
+							<li>Evaluations take place on all four levels</li>
+								<li>Peer Based</li>
+								<li>Formative</li>
+								<li>Summative</li>
+							</ul>
+							
+							                        </div>
+                    </div> 
+                </div>
+                <!--**************************  A Slide   ******************************-->
+
+                
+        </div> <!-- end of slide #container -->
+    </body>
+</html>

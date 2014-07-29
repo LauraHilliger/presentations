@@ -1,0 +1,88 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* Presentation Themes */
+
+
+/* Web Fonts used below */
+
+@import url('http://fonts.googleapis.com/css?family=Raleway:100');
+@import url('http://fonts.googleapis.com/css?family=Cabin:400,700,500');
+
+
+/*  Webmaker 2012 */
+
+.attribution{
+	font-size:12px;
+	color:#666666;
+}
+
+.image{
+	float:left;
+	height:100%;
+	margin-right:20px;
+}
+
+ul{
+	margin:0px;
+}
+
+ul li{
+	list-style: circle;
+list-style-position: inside;
+margin-bottom:20px;
+}
+
+a{
+	color:#3399FF;
+	text-decoration: none;
+	
+}
+
+.slide.left {
+    -moz-transform: translate(-145px, 0pt);
+}
+
+
+	
+.themePop .slide {
+	padding: 0px 0 40px;
+	position: relative;
+	background-position: 50% 0;
+	font-family: "Open Sans",sans-serif;
+	font-weight: normal;
+	color: rgb(147,149,152);
+	background-color:rgb(147, 149, 152);
+	background: url("../images/bg-stone.png") repeat-x scroll 50% 52px rgb(249, 249, 249);
+width:800px;
+	
+}
+
+.themePop .slide strong{
+	font-weight:900;	
+}
+
+.themePop .autoslide img {
+	margin-top: 120px;
+}
+
+
+.themePop .slide h1 { font-family:"Open Sans"; font-size:1.5em; color:rgb(109,110,113); text-shadow: 1px 1px 0px rgba(255,255,255,0.5); font-weight:normal; font-style:normal;}
+.themePop .slide h2 { font-family:"Open Sans"; font-size:1.143em; color:rgb(109,110,113); font-weight:normal; font-style:normal;}
+.themePop .slide h3 { font-family:"Open Sans"; font-size:1.05em; color:rgb(109,110,113); font-weight:normal; font-style:normal;}
+.themePop .slide p { font-family:"Open Sans Light", "Open Sans";font-weight: 400; text-shadow: 1px 1px 0px rgba(255,255,255,0.5); color: rgb(147,149,152); font-size:14px;}
+/*.themePop .slide h4 { font-weight: 300; width: 80%;} */
+
+.themePop .slide .highlight h1 {width: 95%;}
+.themePop .slide .highlight h2 { font-weight: 300; width: 96%;}
+.themePop .slide .highlight h3 { font-weight: 300; width: 96%;}
+.themePop .slide .highlight h4 { font-weight: 300; width: 100%;}
+
+
+
+.themePop .highlight {     /* use in <div> tags to make a highlighted block */
+	background-color: #FFF;
+
+}
+
+
