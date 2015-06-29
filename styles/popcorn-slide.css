@@ -1,0 +1,161 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* Presentation Themes */
+
+
+/* Web Fonts used below */
+
+@import url('http://fonts.googleapis.com/css?family=Raleway:100');
+@import url('http://fonts.googleapis.com/css?family=Cabin:400,700,500');
+
+
+/*  Webmaker 2012 */
+
+.red{
+	//font-size:30px; 
+	color:#ff0000;
+	
+}
+
+.boldie{
+	font-weight: bold;
+}
+
+.textFloat{
+  margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    text-align: left;
+    top: -20px;
+    width: 60%;
+}
+
+.shortCenter{
+	width:50%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+a#mozilla {
+    background-image: url("../images/mozilla_tab.png");
+	float: right;
+	background-repeat:no-repeat;
+    display: block;
+    height: 45px;
+    outline-color: -moz-use-text-color;
+    outline-style: none;
+    outline-width: medium;
+    overflow: hidden;
+    position: relative;
+    text-indent: -2000px;
+	top: -110px;
+    width: 150px;
+	z-index:999;
+}
+
+.slide.left {
+    -moz-transform: translate(-145px, 0pt);
+}
+
+.themePop ul li{
+	list-style-type:circle;	
+}
+
+.themePop h3 p{
+	text-align:left;
+	padding-left:250px;
+}
+
+.themePop ul li{
+	text-align:left;
+}
+
+.themePop ul li img{
+float:left;	
+padding-bottom:10px;
+}
+	
+.themePop .slide {
+	padding: 110px 0 40px;
+	position: relative;
+	background-position: 50% 0;
+	font-family: "Open Sans",sans-serif;
+	font-weight: normal;
+	color: rgb(147,149,152);
+	background-color:rgb(147, 149, 152);
+	background: url("../images/bg-stone.png") repeat-x scroll 50% 70px rgb(249, 249, 249);
+
+	
+}
+
+.themePop .slide strong{
+	font-weight:900;	
+}
+
+.themePop .autoslide img {
+	margin-top: 120px;
+}
+
+
+.themePop .slide h1 { font-family:"Open Sans"; font-size:1.5em; color:rgb(109,110,113); text-shadow: 1px 1px 0px rgba(255,255,255,0.5); font-weight:normal; font-style:normal;}
+.themePop .slide h2 { font-family:"Open Sans"; font-size:1.143em; color:rgb(109,110,113); font-weight:normal; font-style:normal;}
+.themePop .slide h3 { font-family:"Open Sans"; font-size:1.05em; color:rgb(109,110,113); font-weight:normal; font-style:normal;}
+.themePop .slide p { font-family:"Open Sans Light", "Open Sans";font-weight: 400; text-shadow: 1px 1px 0px rgba(255,255,255,0.5); color: rgb(147,149,152);}
+/*.themePop .slide h4 { font-weight: 300; width: 80%;} */
+
+.themePop .slide .highlight h1 {width: 95%;}
+.themePop .slide .highlight h2 { font-weight: 300; width: 100%;}
+.themePop .slide .highlight h3 { font-weight: 300; width: 96%;}
+.themePop .slide .highlight h4 { font-weight: 300; width: 100%;}
+
+
+
+.themePop .highlight {     /* use in <div> tags to make a highlighted block */
+	background-color: #FFF;
+
+}
+
+.popFloat{
+float:left;
+width:30%;
+padding:15px;	
+}
+
+.popFloat p{
+margin-left:33px;	
+}
+
+.centerIt{
+    text-align: center;	
+}
+
+.centerIt h3{
+font-size:75px;	
+width:150%;
+}
+
+.centerIt h2{
+font-size:30px;	
+}
+
+
+
+.tool-flyer-list{
+	padding-right: 365px;
+	box-shadow: 0 2px 4px 
+	rgba(0, 0, 0, .25);
+	background: white;
+	position: relative;
+	overflow: hidden;
+	padding: 40px;
+	margin-bottom: 20px;
+	font-family: "Open Sans Light","Open Sans",sans-serif;
+	font-size: 14px;
+	text-shadow: 1px 1px 0 rgba(255, 255, 255, .5);
+	
+}
+
+
+
