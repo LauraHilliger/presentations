@@ -13,7 +13,7 @@ BODY {
 	background-size: cover;
 	font:25px/1.8 'OpenSansRegular', sans-serif;
 	counter-reset:paging;
-	background-image: url(http://zythepsary.com/mozilla/presentations/images/bg-blue-2.png);
+	background-image: url(http://zythepsary.com/presentations/images/bg-blue-2.png);
 	color:white;
 	}
 		body:after {
@@ -22,7 +22,7 @@ BODY {
 		right:10px;
 		width:153px;
 		height:41px;
-		background:url(http://zythepsary.com/mozilla/presentations/images/tab-2.png);
+		background:url(http://zythepsary.com/presentations/images/tab-2.png);
 		content:'';
 		      
 		}
@@ -71,7 +71,7 @@ BODY {
 	padding:80px 120px 0;
 	width:784px;
 	height:560px;
-	background:url(http://zythepsary.com/mozilla/presentations/images/bg-sandstone-2.png);
+	background:url(http://zythepsary.com/presentations/images/bg-sandstone-2.png);
 	color:rgb(62,62,62);
 	}
 
@@ -309,7 +309,7 @@ BODY {
 .list {
 	float:left;
 	padding:80px 0 80px 100px;
-	background:#585A5E url(http://zythepsary.com/mozilla/presentations/images/bg-darkgrey-2.png) fixed;
+	background:#585A5E url(http://zythepsary.com/presentations/images/bg-darkgrey-2.png) fixed;
 	}
 
 /* Caption */
