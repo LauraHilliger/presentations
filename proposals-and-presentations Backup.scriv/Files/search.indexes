@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="18">
+            <Title>notes</Title>
+            <Text>You see today, today being the day that I started writing this talk for you, my colleague, someone I admire a great deal, called me a sociopath. He was just kidding, but I stopped to think about my perceived lack of empathy and ended up taking an Internet quiz that would tell me whether or not I’m a sociopath (here’s a hint, if you’re worried about being a sociopath, you aren’t a sociopath).
+
+The quiz told me that I’m within the normal range for a typical human being. Then it let me know that I might still be clinically depressed, schizophrenic, borderline, obsessive-compulsive or have AIDS, but random quiz maker didn’t have tests for those.
+
+As a non-Sociopath I am, actually, pretty anti-social in my personal life. But I am incredibly social in my professional life, social to the 
+
+I wasn’t always an open source activist. I wasn’t not an open source activist, I just didn’t know anything about open source. I used to think that Open Source was only a way of writing software, and until I got to know Mozilla, I didn’t have any idea of what that really meant. I was building things on the web. I taught myself HTML and CSS and enough Javascript to get by, and I became kind of decent at ActionScripting and building interactive stories and designing and building websites for people. At the beginning of my career I was working freelance and teaching web technologies and software in San Francisco trying, like every other almost college graduate, to figure out what the hell I was going to do with my life. 
+Somewhere in there, I cofounded a startup where we tried to supplement Art Education (or rather the lack of it in our education systems) with online video tutorials on creative subjects. Stuff like how to make mosaics or throw ceramic pots or how to build a website using Fireworks and Dreamweaver. I moved out of San Francisco to Germany and kept trying to make the business run. It failed epically BUT as a last ditch effort to save it, I went to the very first Mozilla Festival in Barcelona. 
+And that’s where my whole world changed. The first Mozilla Festival, called “Learning, Freedom and the Web” was organized to try and figure out how people were using web technologies in new ways or how they wanted to. Mozilla had this theory that putting educators and technologists together could lead to something bigger. Let me back up a second.
+You know Mozilla as the maker of Firefox, and now Firefox OS, but there are still a lot of people who don’t know that Mozilla is an open source project. Hopefully, this crowd knows that. Mozilla is a non-profit. There are no share holders. There are no stock fluctuations. Our mission is to help people understand what it means to have an open web, and we have a set of principles that we believe are critical for the continued health of the Internet. Mozilla promotes teaching the web, and we build the underlying technologies that make it possible to keep the learning relevant over a long time. 
+So Mozilla threw this “Learning, Freedom and the Web” festival, and I applied to show my startup at the Science Fair so that I could understand why no big corporation had offered us millions of dollars for it. What I learned was not that the Startup was a bad idea or that the content sucked or anything that had to do with the startup at all (actually, people really liked it). But what I learned is that Mozilla is a community of people. Mozillians are people who know that the Web is built to be interoperable, knowable and that it belongs to us. All of us. 
+What I found was a bunch of passionate people who believed that the Web could aid in making the world a better place. They were people who loved the Web I loved. Not a specific website or application, but the entire idea that the Web connects us and allows us to explore key problems together. What I found were a bunch of people who were working together to make the world a better place. I found people who pushed at things in my belief system. Things that had always felt a little wrong, but I could never pinpoint why. I was challenged, engaged - people seemed to care what I thought, even though I didn’t know them. WHY!?
+
+I started contributing to Mozilla after that first experience. I was so fascinated by the distributed ownership and responsibility, so moved by the idea that connecting could make our world better, so excited that Mozilla was working to make sure the internet stays open, participatory, decentralized and public a 100 years from now, that I just got addicted. 
+
+My participation in a vision of what teaching and learning around technology could be, my participation in the open governance structures I was introduced to at that first event, fundamentally changed who I am and what motivates me. Being asked to participate is what led me to asking others to participate.
+
+
+I think the real life aspect of our training program is massively important because meeting people in real life strengthens our connections to them. Our minds shift when people become a physical identity, just like the physical cards at Mozfest caused a shift in people’s minds to help them feel agency, so too does a physical persona help solidify connections.
+</Text>
+        </Document>
+        <Document ID="10">
+            <Title>Teaching Kits Adoption</Title>
+            <Text>http://dmlcentral.net/blog/doug-belshaw/some-thoughts-interest-based-pathways-learning
+
+http://seecantrill.tumblr.com/post/65997414442/teachtheweb-yall
+
+“Second, I continue to think about the modular pieces that are so important in the development of #teachtheweb materials. The elements that I notice can be powerful to pull together in my own work with adult educators include:
+	•	Examples of remixes by youth that can be used as mentor texts — these should come in the range of formats, done by a range of ages, and include a range of content.
+	•	Fun, playful starter makes across all the tools that engage a range of interests and levels of experience with webmaking.
+	•	Remixable activities (not necessarily “kits” but more like activities and sets as curations) that educators have developed that pull these together around some shared activities and/or content goals.
+And then third, I love the remixable nature of all this work and the potential for remixable curriculum as a result — or at least remixable curricular elements. Chad talks about this in his own post-Mozfest reflection …
+I’m even more interested in Thimble as a storehouse for web native curriculum – especially for product- and tool-making around participatory learning and inquiry.
+… and I love the way that he takes this on and really does make his work available to others here too.
+What I keep wondering then, is how to pull these things together … not necessarily as teaching kits which is kind of hard-coded manual process (as lovely and remixable as they might be), but as related elements that I might use together at any one time. A little mini-curation or gallery of items that I could remix and reuse among each other in different ways. Hmmmm. …
+Finally, as I wrap up this post I am also reading what my colleagues wrote in their reflections (Peter Kittle here/Chad here) and I am struck by all the moments where we lifted our heads and connected with those around us and what it is that we found. #teachtheweb is certainly about creating curriculum and modularized content, I believe, and I also think there is a role of #researchtheweb and #learntheweb that those teaching the web need to engage with constantly and at events like these.”
+
+
+Theory that supports our work and methods
+Kant, Humboldt, Klafki, Bateson edu classics
+Frank Piller, Michael Porter: Mass Customization &amp; Open Innovation
+Atkinson &amp; Shiffrin Memory Models (1968)
+Pavio Dual Coding (1971)
+Mayer Cognitive Theory of Multimedia Learning
+Miller, Simon, Chase, Sweller Cognitive Load + Theory
+Constructivist, Constuctionist learning theories and subtheories here
+
+</Text>
+        </Document>
+        <Document ID="19">
+            <Title>OpenSym Bullets</Title>
+            <Text>Slide 1
+Michelle
+5 mins get to know each other
+
+Slide 2
+I participate in life
+Constantly learning about participation in life. In work…
+Sociopath, gambit, arrogant/self defacing, brutally honest/cunning liar, neurotic/self-assured
+Range of human emotion
+
+Slide 3
+Emotion is influenced by surroundings and norms, ceo, teacher (blue shirt hand, black shirt gorilla)
+Connection has helped us redefine what "normal" means
+Participatory - Scale and we can give people agency, at mozilla we have
+
+Slide 4
+Mozilla story
+We’re a community
+
+Slide 5
+My job shifting dynamics
+"participatory" as the difference between a lecture and a conversation. It's the difference between passive and active.
+Mozilla, connected learning, progressive pedagogies = facilitating connections, modeling behaviors by running participatory events
+
+Slide 6
+Mozfest is one such event, describe Mozfest
+We ask ourselves if it's valuable and according to the people who participate, it is.
+
+Slide 7
+Mozfest movie
+Learning how participatory design can empower community was something I started to do at the very first Mozilla Festival five years ago. 
+
+Slide 8
+Space Wrangler (define the job)
+Curious about self serving participatory mechanism
+
+Slide 9
+I had this idea for a giant scrum board kind of thing.
+I'm quite good at is breaking down complicated problems into actionable steps
+FEAR
+
+Slide 10
+Results
+sheer physical act of translating
+Humans had to be human
+
+Slide 11
+Open collaboration the norm instead of fun thing you get to do
+Mozilla is good at it
+
+Slide 12
+We work open to invite people in to participate
+
+Slide 13
+The point of our gigantic Scrum board at Mozfest was not to get people to make stuff for us, it was to get people to collaborate.
+Webmaker Training wants to model behaviors
+
+Slide 14
+Blended training dream
+Curricula for openness and is participatory
+
+Slide 15
+Our training program is grounded in the idea that if we model the behaviors we want to see,  we will influence the behaviors of others. 
+Conversation, not lecture
+Behavior reflects value
+
+Slide 16
+We all need accolades, we all want to be better versions of ourselves
+Humans are afraid to be themselves
+Encouraging community by being participatory
+The way you participate in the world says something about your values. 
+
+Slide 17 
+Hierarchies
+
+Slide 18
+I think designing and using participatory methods is mostly about opening the door for people. Help people see what it means to have agency. 
+Work in the open
+
+Slide 19, enough of me talking.</Text>
+        </Document>
+        <Document ID="11">
+            <Title>Lernen mit Medien (Humboldt Dec 2013)</Title>
+            <Text>Lerneinheit #1:  das Internet besteht aus Katzen.
+Die Leute die partizipieren in Open Source Gemeinschaften haben eine Kultur. Es ist eine gewissene Internet Kultur – ein Kultur die versteht das wir die Macht haben, das Internet frei zu gestalten, und das dieser Macht wird in realen Welt transportiert. 
+
+Wikipedia SLIDE
+Ihr habt sicherlich alle über Arab Spring gehört oder die Tag die Internet ist schwarz gegangen? Das war keine Zauberei (obwohl das Web ist totaler Wahnsinn), das war aber Aktionen die unser Welt verbessert hat.
+
+Webmaker SLIDE
+Das ist was unser Studenten lernen müssen – die müssen die Kultur und Funktionen des Webs lernen, weil gebildet zu sein heißt dass man kritisch über Schlüsselprobleme nachdenkt (Klafki). Das Web beinhaltet die Information der Welt und das Wissen der Menschheit. Es stellt uns die Infrastruktur bereit, über solche Probleme nachzudenken und sie zu lösen. 
+
+SLIDE
+Wenn ihr wollen Lernen unterstützen, gibt es keiner einziger Werkzeug. Lernen ist chaotisch, alle lernen anders, und Lernmanagement System sind größten teils totalen schrott. 
+
+SLIDE
+Ihr sollen dieser Kultur des Internets nicht nur durch mich kennenlernen, aber tiefer eingehen – wenn ihr das Web versteht, kann ihr eine persönliches Bildungsraum für jeder Lerner erschaffen.
+
+SLIDE (steal like an artist)
+“Open” heißt 3 Dinger, die ihr in euer Praxis einarbeiten können.
+Decentraliziert: Schau mal um – du hast Freunde, Kollegien, Peers, im echt. Du hast die auch im digitalen Bereich - auch wenn du die noch nicht kennst. Niemand besitzt Wissens – da gibt es keiner der alles weißt. Alle besitzen Wissens, und wenn Wissens dezentralisiert ist, sollte auch andere Sachen, wie Inhalt, Lehrmateriellen, u.s.w
+
+Innovation &amp; Hackability: Das hat mit freies Wissens zu tun. Wenn jemand oder je Corporation versucht Ideen zu besitzen, können wir, die Menschen des Welts, schlecht neuer Ideen erfinden. Ideen sind doch an anderen Ideen gebaut.
+
+Transparenz: Wenn du sehen kannst wie etwas gemacht ist, kannst du es, oder etwas ähnlich, nachbauen. Stell dir vor du hast gerade das bestes Kuchen der Welt gegessen. Du willst es nach machen, aber du hast keine Ahnung was da drin war. Transparenz heißt der Koch gibt dir der Rezept. Das heißt nicht das du die selbe Kuchen machen kannst, oder das deins besser wird. Das heißt nicht das der Koch verliert sein Restaurant weil irgend eine Kunde ein einzige Rezept gekriegt hat. Es heißt einfach dass du eine leckere Kuchen backen versuchen kannst. 
+
+SLIDE teaching kits
+Alles was wir machen bei Mozilla ist offen. Wir haben regelmassiger Community Calls, Entscheidungen sind in Gruppen ertroffen, du kannst jeder Frage stellen…unser Lehrmateriellen, von die Gemeinschaft gemacht, Projekten Ideen, Medien als Lernen – alles ist mit und für das Web gebaut, und kann auch auseinander gesetzt werden.
+
+SLIDE consuming
+Wir versuchen zwischen Technologien und Pädagogin eine Lücken zu schliessen. Wir haben verschiedene Kompetenzen – wenn wir zusammen arbeiten, wird die Pedagogie und die Technologie besser. 
+
+SLIDE lerneinheit 2
+Ich habe dieser Dia eingebaut weil da war dieser Frau in einer meine Workshops – ganz negativ, eine totaler Dummheit. Um ihr rühig zu machen, habe ich eine Lüge gespunn – eine sehr spezifische Lüge. Später habe ich gelernt das die Frau…naja war “wichtig”. Und später wollte sie die Wahrheitsbeweis um ein andere “wichtiger” Mensch zu zeigen. Ich hab “Ach Sheet” gedacht. Aber dann habe ich gesucht, und gefunden wonach ich gesucht habe. Eine Projekt in Süd Italian, die Augmentierte Realität über Rome legen werden um Gesichte zu lehren. Da ist mehr in das Web als ihr überhaupt vorstellen kann….
+
+SLIDE Webmaker
+Also, ich lehre das Web und seiner Kultur, und ich wollte euch ganz viele Werkzeuge zeigen – aber ich habe nicht genügen Zeit schätze ich. Deswegen will ich euch das Web einfach demystifizieren. </Text>
+        </Document>
+        <Document ID="12">
+            <Title>OOE talk</Title>
+            <Text>My name is Laura Hilliger, I think many of you are already aware of the work we’re doing at Mozilla Webmaker, so I thought I’d give you a quick background and then we can just chat.
+
+I like to Teach the Web. I’ve been walking the line between education and technology my entire career, having found an affinity for playing with computers and code and messing around with various types of software at a pretty early age. I remember falling in love with the Web the first time it took 22 minutes to log on through a modem that sounded like nails on a chalkboard. I’ve loved it ever since, through all it’s phases, and I’ve spent a lot of time understanding why I feel the way I feel about it. It’s because the Web is an ecosystem of knowledge – it has the power to connect all of us, to help us find our kindred spirits, to change the world. It can do all of those things, if we have the basic skills we need to explore that ecosystem and exchange ideas, stories, truths with one another. 
+
+I love to teach the web, which is why I love working with Mozilla.
+
+Really, Mozilla is a community of people. Mozillians are all over the world working to teach the web. And I don’t just mean formally to students, but to each other, to their families, to their friends, in their every day lives. Mozillians are people who know that the Web is built to be interoperable, knowable and that it belongs to us. All of us. And Mozillians teach the web to keep it that way.
+
+Mozilla is a non-profit. Our mission is to help people understand what all of this means, and we have a set of principles that we believe are critical for the continued health of the Internet.
+
+This month, you are asking yourselves the question “What comes first Digital Literacy or Digital Citizenship?” My opinion is that literacy and citizenship are so intrinsically linked, they have to be conceived that way, taught that way. I think the misconception about “digital literacy” is that it’s all about technical skill acquisition. Individuals must have the ability to shape their own experiences on the Internet – this isn’t just about broadcasting information, but thinking about it, understand implications and relationships, understanding what consequences your online actions have in your online and offline life. 
+
+A few weeks ago, Doug Belshaw spoke with the OOE community about the work we’re doing around the Web Literacy Map. Web Literacy is about the culture, mechanics and citizenship of the Web. It’s not just about coding or making web pages, it’s about helping people gain the competencies and skills that allow them to read AND write the web, to  participate in global discussions, to think critically about what they find there. We need to understand the web, which means understanding how computers work, but also about the social skills that go with living in a digital world. Collaboration, Storytelling, Community, Civic Engagement, Self-Expression, Conviction, Critical Thinking...
+
+At Webmaker, the culture, mechanics and citizenship underpin everything we do as we teach the web through making. We try to meet learners where they are by zeroing in on individual interests and helping folks make the things they want to make. At the same time, we promote open culture, participatory and collaborative learning and individual responsibility. Like you, we believe in connected learning, constructivism and other progressive pedagogies.   
+
+To that end, we’ve been building software to make learning about the web easy. We have three tools, which you should go and play with them sometime when you have a few moments to be creative. Don’t forget to share whatever you make with the hashtag #teachtheweb!
+
+The Xray Goggles are a good first step into the power that we have to be more than users of the web, and instead makers of the web. We can rearrange the basic building blocks and explore the web critically, we can use this tool to rewrite what others have written. 
+
+And when we feel comfortable changing the web that exists, we can learn more to write a new web. Thimble is our browser based editor. We’ve been layering learning content on top of the editor, which lets people see how something is built, and then use remix to create something new.
+
+The third tool is designed to further explore critical thought, commentary and participation in the digital age. It kind of plays off the idea that we don’t just have to consume media, we can create it, hack it, change it and change its meaning. It’s also one of the coolest tools ever, and I’m not at all bias…
+
+Popcorn Maker allows you to pull the Web itself into video. You can use it to tell a story, explore or comment on an issue. There are a lot of great examples of Popcorn Makes that folks have made, and I encourage you to go to Webmaker.org and explore what people are doing. This piece, by the radio rookies, has helped me explain the power of Popcorn Maker for education so many times I’ve lost count. 
+
+This piece was put together by a group of kids in New York. Let’s see…do we have time to watch it? 
+
+At Mozilla, we’re trying to help bridge the gap between technologists and educators by helping both groups have a conversation about teaching and learning the web. We’re trying to get all of these people who care about the web from different perspectives talking together to improve both our pedagogy around the web as well as the web itself.
+
+We’ve been creating some open educational resources that are designed to be remixed. We, the entire community, are co-creating digital and web literacy curriculum together, and exploring the new definition of Literacy and the perceived boundaries of technology. We’re all learning about learning in a world where technology changes every five minutes and what we used to know about teaching and learning may no longer be relevant. 
+
+Part of that learning about learning happens in the real world. We believe in blended learning, and encourage others to get together both online and off to play with the Web, make things, collaborate and share. This is a big part of our culture, getting together and using physical materials like post it notes and tape to explore ideas and make things to further help teach the web, and remember when I say teach the web, I mean teaching about open culture, web mechanics as well as citizenship. We have learning resources for both online and offline workshops or gatherings, and we always encourage sharing your offline experiences with the greater online community. In this way, we never stop learning from one another. 
+
+In 2014, the Teach the Web team aims to create educational resources for the competencies in the Web Literacy Map with; baseline curriculum that can be remixed to fit any subject. We also want to provide training opportunities to help people level up both their technical skills and their ability to design collaborative, participatory learning experiences. It’s a sort of professional development program where we all learn how to teach the web together. 
+
+So, I’ve talked enough, are there questions? Ideas? Desires?
+</Text>
+        </Document>
+        <Document ID="20">
+            <Title>Untitled</Title>
+        </Document>
+        <Document ID="13">
+            <Title>webmaker101 talk</Title>
+            <Text>CHRIS:
+Hi everyone! Thanks so much for having us, it’s really a pleasure to take part in Connected Educator Month and to have this opportunity to teach the web and invite you all to teach the web along with us. 
+
+We’d like to give a special welcome to the educators joining us from throughout the Educator Innovator Network. For those of you who are unfamiliar with Educator Innovator, it  provides an online “meet up”  for those who are re-imagining learning. Educator Innovator is both a blog and a growing network of educators, partners, and supporters. If we want to educate a generation of young people to be innovators — to create, build, design, and use their talents to improve their world — we need to value the creative capacity in the mentors and teachers who support them. Subscribe to the Educator Innovator blog (blog.nwp.org/educatorinnovator) to learn more.
+
+I also mentioned Connected Educator Month a few seconds ago… The idea behind Connected Educator Month is to provide educators with a range of opportunities to collaborate and learn from one another so that they can thrive in today’s connected world. Educator Innovator, the National Writing Project, and the Mozilla Foundation are all proud to be partners in the Connected Educator initiative of the Office of Educational Technology at the US Department of Education. Check out the Educator Innovator calendar for more Connected Educator month activities. And tweet during this webinar to #ce13 to get your thoughts into the bigger stream.
+
+We’ve been working with the National Writing Project for a little over a year now, and through this network we’ve learned so much and met so many wonderful people. It’s truly a pleasure to be involved in the Educator Innovator series, so thank you!
+
+Chris Lawrence. [Chris gives an intro]
+
+LAURA:
+My name is Laura Hilliger and I like to Teach the Web. I’ve been walking the line between education and technology my entire career, having found an affinity for playing with computers and code and messing around with various types of software at a pretty early age. I remember falling in love with the Web the first time it took 22 minutes to log on through a modem that sounded like nails on a chalkboard. I’ve loved it ever since, through all it’s phases, and I’ve spent a lot of time understanding why I feel the way I feel about it. It’s because the Web is an ecosystem of knowledge – it has the power to connect all of us, to help us find our kindred spirits, to change the world. It can do all of those things, if we have the basic skills we need to explore that ecosystem and exchange ideas, stories, truths with one another. 
+
+I love to teach the web, which is why I love working with Mozilla. Yes, Mozilla makes Firefox…
+
+Really, Mozilla is a community of people. Mozillians are all over the world working to teach the web. And I don’t just mean formally to students, but to each other, to their families, to their friends, in their every day lives. Mozillians are people who know that the Web is built to be interoperable, knowable and that it belongs to us. All of us. And Mozillians teach the web to keep it that way.
+Mozilla is a non-profit. Our mission is to help people understand what all of this means, and we have a set of principles that we believe are critical for the continued health of the Internet.
+
+By the way, these slides are located at http://mzl.la/oct15-2013-webinar, and the links are live, so you can return to this presentation and explore the Manifesto or other resources whenever you like.
+
+So…principle number 5 is, for me, where Teach the Web comes in. Individuals must have the ability to shape their own experiences on the Internet. To me, that means that individuals need to have the competencies and skills that allow them to read AND write the web, to  participate in global discussions, to think critically about what they find there. It’s about literacy, isn’t it?
+
+At Webmaker, we teach the web through making. We try to meet learners where they are by zeroing in on individual interests and helping folks make the things they want to make. We believe in Making as Learning and that the best way to learn new skills is by doing something relevant to each learner and doing that something together. Like the National Writing Project, we believe in connected learning, constructivism and other progressive pedagogies.   
+
+At Mozilla, we’re trying to help bridge the gap between technologists and educators by helping both groups have a conversation about teaching and learning the web. We’re trying to get all of these people who care about the web from different perspectives talking together to improve both our pedagogy around the web as well as the web itself.
+
+To help these groups mingle, we’ve been creating some open educational resources that are designed to be remixed. We, the entire community, are co-creating digital and web literacy curriculum together, and exploring the new definition of Literacy and the perceived boundaries of technology. We’re all learning about learning in a world where technology changes every five minutes and what we used to know about teaching and learning may no longer be relevant. 
+
+Part of that learning about learning happens in the real world. We believe in blended learning, and encourage others to get together both online and off to play with the Web, make things, collaborate and share. We have learning resources for both online and offline workshops or gatherings, and we always encourage sharing your offline experiences with the greater online community. In this way, we never stop learning from one another. 
+
+Because it’s so much fun to get together with people who like to learn, we encourage and support people who want to organize events in their local communities. From the kid who invites a couple of friends over to build a website to the people who run hack jams or the organizations that set up a sort of learning buffet for the entire community, the community is finding new and exciting ways to teach the web and share web culture.
+
+CHRIS:
+One of our most successful examples of web culture bleeding into the real world (and vice versa) are the Hive Learning Networks. Hives are networks of like-minded organizations in specific cities that collaborate to offer a wide range of learning experiences to their communities. Most often, the organizations are informal learning institutions like museums or community centers, but the diversity in those types of organizations is wide ranging. Hive NYC, for example, includes everything from internationally known museums to neighborhood community centers.
+
+Hive Learning Network organizations share resources to spread learning and literacy to the cities where they exist. It’s through collaboration and open conversation that Hives are able to secure funding to bring a variety of innovative learning experiences to their communities. Mozilla has the honor of stewarding Hive Learning Networks in New York, Chicago, Toronto and Pittsburg, and we’re helping budding networks in Athens, San Francisco, various cities in India, and elsewhere grow a make impact in their local cities.
+
+Webmaker is the overarching initiative for the work we do, that we’ve been talking about for the last several minutes. It’s very difficult to cover the breadth of stuff that we do here at Mozilla Webmaker in such a short amount of time, especially since I want to show you the tools we’ve been making to help people learn and teach the web through making. So I’ll just remind you, you can access these slides at http://mzl.la/oct15-2013-webinar
+
+LAURA:
+I’m not sure where this statement came from, but it serves as a really good segway into me saying….Speaking of code…
+
+Today, I wanted to show you a few tools that you can use (freely of course) to help you teach the web while you’re teaching other things – any other things. You see, I believe that the web can be taught alongside of any other subject. I also think it’s important that we start to teach the basic building blocks of the Web, at least so that learners can mess around with the Web and so that they can use their hacking abilities to be expressive on the Web.
+
+We have three tools, and I’m going to quickly show you each one. BUT, you should go and play with them sometime when you have a few moments to be creative. Then share whatever you make!
+
+The first is the XRay Goggles…lego, building blocks, etc
+I feel like the Goggles are a good first step into the power that we have to be more than users of the web, and instead makers of the web. We can rearrange the basic building blocks and explore the web critically, we can use this tool to rewrite what others have written. 
+
+And when we feel comfortable changing the web that exists, we can learn more to write a new web.
+
+Here we have a webpage about animals. This page was created by the London Zoo and is a remixable Thimble project designed to teach kids about a few endangered species. If I hit the Remix button, the page and how it was built, loads into Thimble, a browser based editor…On the left….
+
+We know that the Web is not about code. And we know that understanding a little bit of code is not enough, which is why we, as a community, have been working on creating a web and learning standard we’re calling the Web Literacy Standard. The idea is to try and define the competencies and skill that make up literacy today. And to design the standard in a way that is flexible enough that as technology advances, the standard still makes some sort of sense. We need to understand computers, true, but we also need to understand ourselves and each other. These lessons aren’t new ones, but they are ones that take on different meaning because of the advancement of technology. What does it mean to be educated in the 21st Century? 
+
+The third tool is designed to further explore critical thought, commentary and participation in the digital age. It kind of plays off the idea that we don’t just have to consume media, we can create it, hack it, change it and change its meaning. It’s also one of the coolest tools ever, and I’m not at all bias…
+
+Popcorn Maker allows you to pull the Web itself into video. You can use it to tell a story, explore or comment on an issue. There are a lot of great examples of Popcorn Makes that folks have made, and I encourage you to go to Webmaker.org and explore what people are doing. This piece, by the radio rookies, has helped me explain the power of Popcorn Maker for education so many times I’ve lost count. 
+
+This piece was put together by a group of kids in New York. Let’s see…do we have time to watch it? 
+
+Again, I can hit the remix button and see how this was built…
+
+CHRIS:
+It’s not just about spreading tools that allow you to look inside the web and what’s on it, we’re part of a movement, a movement that I’m very pleased you all are a part of as well.  Next week, we’ll be in London for the annual Mozilla Festival, Mozilla’s largest public event. For three days, we’ll learn, make, share, break, fail and learn some more, together. We’ll continue this work, pushing the future of education and technology by making and sharing and being champions of open culture. I included a quick promo from last year’s festival…
+
+So in closing, the Digital World is gigantic, and we’re a small, but growing community. We’re passionate, idealistic, friendly and silly. We’re sharing everything we do through the #teachtheweb hashtag and @mozteach or @webmaker twitter accounts. And we invite you all to get involved, join the Webmaker community, and help us teach the web.
+
+Now…do we have time for questions? 
+
+Badges! CODE: eweb113
+visit this page &lt;http://badges.connectededucators.org/&gt; 
+</Text>
+        </Document>
+        <Document ID="3">
+            <Title>WebScience Conference</Title>
+            <Text>The relationship between technical design and individual behaviour (i.e. the impact of by-default design on privacy); 
+
+Submission
+
+Workshops proposals should contain the following information:
+
+1. Title summarizing the theme of the workshop.
+2. Details of the organizing committee, including names and institutional affiliations.
+3. Max two-page description about the relevance, motivation and goals of the workshop.
+4. Schedule of panels and talks (half or full day).
+5. Names of potential invited speakers.
+6. Selection criteria for papers to be presented.
+7. Workshop website URL (advisable).</Text>
+        </Document>
+        <Document ID="21">
+            <Title>CCourses Lighting</Title>
+            <Text>Hi! I’m Laura Hilliger, I work for Mozilla, and a big part of what I do is help people, no matter what their actual technical skill level is, teach the web. We MUST teach the web.
+
+I like to Teach the Web. I’ve been walking the line between education and technology my entire career, having found an affinity for playing with computers and code and messing around with various types of software at a pretty early age. I remember falling in love with the Web the first time it took 22 minutes to log on through a modem that sounded like nails on a chalkboard. I’ve loved it ever since, through all it’s phases, and I’ve spent a lot of time understanding why I feel the way I feel about it. It’s because the Web is an ecosystem of knowledge – it has the power to connect all of us, to help us find our kindred spirits, to change the world. It can do all of those things, if we have the basic skills we need to explore that ecosystem and exchange ideas, stories, truths with one another. 
+
+I love to teach the web, which is why I love working with Mozilla. You know Mozilla as the makers of Firefox, but Really, Mozilla is a community of people. Mozillians are all over the world working to teach the web. And I don’t just mean formally to students, but to each other, to their families, to their friends, in their every day lives. Mozillians are people who know that the Web is built to be interoperable, knowable and that it belongs to us. All of us. And Mozillians teach the web to keep it that way.
+
+You see web literacy isn’t just about technical skills, technical skills can be learned on your own through tinkering and play. Web Literacy is about active citizenship in the digital age. 
+
+What I mean by teach the web is embrace and spread the ethos of open culture. Openness is about transparency, decentralization, and remix ability, it’s also about allowing yourself to have ideas and to play with them, allow others to play with them. These are concepts that you, as an educator,  can start baking into your very practice. 
+
+The mechanics of the web allow for a riff and remix culture, so too should the mechanics of education. I think remix is a natural state of being, and we need to teach people how they should present their work so that others can riff off of ideas and participate or contribute to that work. We have a place that makes it easy, and it’s in the ecosystem that is the web. 
+
+As Gardner said The Web isn’t just a technical platform where we store bits and bytes. It is a manifestation of human knowledge or even the human experience, the good AND the bad. 
+
+And if you believe in the remarkable ability of the human brain to invent and innovate and shape ideas (how could you not?), then the web is a place to share and collaborate on ideas to solve the types of global problems we face now and in the future. So we have to teach the web. We have to show people how to contribute, how to work together, how to MAKE, BUILD, CREATE, PLAY, FAIL and read, write and participate in our knowledge network.</Text>
+        </Document>
+        <Document ID="14">
+            <Title>2014 goals</Title>
+            <Text>Top three personal growth goals in your work
+Transition, change and fail better by helping others take ownership and letting go when they do.
+Get better at communicating our message in ways and to people that results in tangible contribution (be it funding, content development or other). 
+Be more systematic and organized in my day to day work.
+Top three accomplishments you hope to be bragging about at the end of 2014
+a solid baseline content that can be used to run “A series of Train the Trainer events run (almost entirely) by Super Mentors that propels Maker Party to new heights” and proving its effectiveness by running our own Train the Trainer events for our catalyst communities
+a solid baseline content for all the WebLitStd competencies created in community at online or offline Content Sprints
+help add more partners to our network - partners who make and align interest-based curriculum (using Webmaker.org tools and/or the MakeAPI) and projects that help people #teachtheweb 
+Top three goals you have for the mentor team
+Package our collective work in a way that tells the whole story
+Use/alott resources better so that we work more closely as a team
+Create more inner team opportunities so that we work more closely as a team (e.g. Inner Mentor Team Crossteaming)
+Top three blockers in 2014 (“blockers” interpreted as “fears”)
+Lack of resources resulting in bottlenecking (on development and design mainly)
+Overcompensation for our previous lack of laser focus that results in stifled creativity or the absence of exploration, prototyping, trying, failing and ultimately winning
+Overcompensation for our previous lack of cross collaboration that results in forcing square pegs into round holes
+What are you most excited about in the upcoming year?
+Being part of this team and mentoring each other do/be better. Also bringing new people into our community and teaching and learning from them.</Text>
+        </Document>
+        <Document ID="4">
+            <Title>bischofswerdeTalk</Title>
+            <Text>Mozilla history slide:
+The open ethos is a philosophical idea that working in a decentralized, innovative, remixable and transparent way leads to more innovation. On the World Wide Web, these ideas are grounded in the Open Source Movement, which served as a catalyst for the more general “Open Movement”. The Open Movement is a collaborative form of work that takes into consideration each contributor's opinion and knowledge to develop solid programs and content that are revised after each evaluation.
+
+
+"Bei Mozilla, wir wollen dass alle Leute partizipieren in die Gestaltung des Webs können. Und wenn ich Gestaltung sage, ich meine nicht nur an die Technologie ebene, sondern auch an die Wissensebene. Ihr haben alle irgendwas zu sagen, ihre Gehirne sind bereit am globalen Austausch von Informationen mitzumachen. Ihr braucht ausreichende Fähigkeiten, um ihre Meinung in Welt klarzustellen. Wir wollen ihr helfen solche Fähigkeiten zu lernen."
+
+"Wir glauben, dass wenn ihr spaß hat und etwas echtes schafft, lernt ihr mehr. Ihre Intressen fügt zu lernen. Wer hier spiel in eine Band? Warum machst du das? Weiß du dass Instrumente zu spiele macht Man kluger? Es macht die Erinnerung scharfer, es lehrt Disziplin, du fühlst dich Gut dass du das kannst, girls dig musicians...Programmieren, Gestaltung, etwas machen/bauen macht mann kluger auch. Und am Web du kannst alles bauen."
+
+"Ihr könnte Videos bauen, wo die ganzen Welt in die Inhalt des Videos partizipieren können. "
+
+"du kannst Webseite bauen die zeige dein eigene Ideen, Meinungen, Wissens. Ihr könnte eine hässlich und bescheuerte Website für Dieter Bohlen bauen, sodass alle wissen das ihr ihn so sehr Lieben.
+
+"Du kannst Kunstprojekte zum Thema Brot machen oder Spiele die aussehen als ob die aus die 80s sind. Du kannst Batman von ein neuer Perspektiv erzählen, an Politik kommentieren…du kannst ja Informationen über wie Katzen Serienmörder sind verbreiten. Du kannst alles bauen."
+
+"Popcorn erlaubt dynamische Datei im Video eingezogen zu werden. Popcorn macht Video interaktiv. THimble ist eine Web basierte Editor, die hilft beim "gutes" Code schreiben. Die Rotigen Brille kann zeigen wie eine Seite gebaut ist und erlaubt die Möglichkeit es zu verändern.
+
+Wenn ihr partizipieren wollen, werden wir hier eine Web Projekt zusammen machen. Wir werden irgendwas für das Web bauen, irgendwas großartig und schön. Ein Web Native Film oder ein Spiel oder eine Schulzeitung oder sonst was. Wir werden zusammen kreativ sein. Einfachmal kreativ.
+</Text>
+        </Document>
+        <Document ID="22">
+            <Title>Creative Leadership Pathways</Title>
+            <Text>The problem: 
+The feeling of career advancement for “creative” leaders (as opposed to “people” leaders). 
+Demoralizing to never “move up”, 
+It’s difficult to assess ourselves and determine new directions for our thinking. 
+
+Feelings we need to address:
+Isolation / being out of the loop
+Instability
+Resentment (Promotions going to people who have less tenure is hard to swallow, people in this track swing the gambit between trusting their manager(s) illicitly and believing that there’s a conversation going on behind their back).
+Misunderstanding
+Lack of agency (“need” to go through manager)
+Lack of empowerment (by spreading the meme that these folks need to go through managers)
+Being used for ideas
+Solutions
+Open honest conversation about professional and personal skill development
+Interested MGMT in what is missing for creative leadership, and an honest attempt to provide some of those things
+A formalized advisory group - many creative leaders have backchannels with managers, are feeding the ideas and work into the spotlights the managers are standing in. If creative leaders knew who the others were, and met with those people at intervals, what kind of advice could they provide their managers with? Would also serve as a safe space to rant about blockers or ideas, a space without “HR”
+A formalized mentorship program, perhaps combined with the above. 
+</Text>
+        </Document>
+        <Document ID="15">
+            <Title>fitc notes</Title>
+            <Text>“You’re more talented than you know, so how about you help us #teachtheweb?”
+Lots of us in the tech industry work on holidays. We don’t do it for our careers or jobs or bosses, we do it for our families – we clear caches, reinstall browsers, update websites, fix their “broken” computers. We – the designers, developers, webby nerds who can attach images to emails problem free – are actually the minority. We – the makers and creators of digital things – are more talented than we think, and it’s time to put those talents to use by making the world a better place. Join Laura Hilliger from Mozilla to talk about why we need to teach the web, why the idea of “digital native” is BS and how spreading open values is impacting culture and society.
+idea would be a presentation of what Mozilla is doing in-between the fields of education and technology and why. I’d definitely include some LOL cats, and funny mashups, but the heart of the conversation is around the fact that formal learning institutions are sending folks into the world without the skills they need to participate in digital society and the idea “digital native” is a complete falsity. It’s about the social impact of the web and the cultural impact that openness has.
+==============================================================
+There are always people and entities who resist change. Folks who think that if they refuse to learn, innovation will be stopped. Folks who boycott the new. And there are plenty of people who are actively boycotting our 
+
+Educators do not define literacy as just the ability to read and write - both of those things are incredibly useless if you can’t think. Literacy is the ability to read and write and think critically about what you read and write. We are reading and writing on the web, hopefully all of you are thinking critically about what you read and write online. And while the dictionary’s definition of literacy is simply “the ability to read and write”, most people can’t even do that with the Web.
+
+But what about Facebook status updates and Tumblr and Twitter and Wordpress and all these ways that people can read and write on the web without being able to program, Laura? Gee, thanks for asking. The truth is people who are sharing knowledge using those tools are kicking ass, but most people aren’t really 
+
+And Mozillians teach the web to keep it that way.
+
+But I didn’t really understand that connection until I went on this silly quest to earn a Masters in Media and Education. I didn’t care about the credential, I just wanted to understand why I liked teaching so much (and, hey, the credential is worth something right?). What happened was I learned about learning, and knowledge and how our brains develop.
+http://www.theguardian.com/business/2014/jan/20/oxfam-85-richest-people-half-of-the-world
+Digital Natives PBS idea channel: http://www.youtube.com/watch?v=9WVKBAqjHiE
+Structural Crisis owning ideas vs 
+Culture, Mechanics, Citizenship
+Web Literacy
+#Teachtheweb
+
+Can you name an Internet meme? Do you know what Etherpad  or IRC is? Have you ever updated a wiki? Do you use Internet Explorer? If you said yes to any of the first three questions and/or no to the last, you’re a minority. Although a fairly large percentage of the world is online, most people only consume the content WE make – and I don’t know about you, but I want to see what other people are up to.
+The first thing I want to do is see what you guys know about the Web. If you might indulge me in a little exercise and stand up? I’ll ask a question and if for you, the answer is “yes” just sit down. This won’t take long. 
+1. Have you ever updated a wiki?
+2. Do you know what IRC is?
+3. How about Etherpad?
+4. Can you name an Internet meme?
+5. Do you use Internet Explorer as your 1st choice browser?</Text>
+        </Document>
+        <Document ID="5">
+            <Title>workshopether</Title>
+            <Text>Type: Workshop
+ 
+Audience: Professional Webmakers that don't teach (yet)
+ 
+Abstract
+This workshop will give hands on training on how to embed a webmaker ethic into organizations. 
+ 
+This workshop will   help management understand how embedding webmaking will  lead to   innovative problem solving, creative thinking and a desire for    tinkering. It will  show institutions how community and participation    stem from the ability  to have an active voice, and how empowering  your   staff and users to be webmakers will strengthen your  institution. 
+ 
+Certain  webmaker   ethics like open innovation, remixing, attribution,  collaboration and   community  ettiquette will be introduced and expanded  upon. 
+ 
+This  workshop will   strengthen the participants ability to empower other members of the   staff to use the institutional web space as a canvas of ideas.
+ 
+Agenda
+Define Hacking
+Case Study Demos of Webmakers
+Demos of Mozilla Tools
+Make Session
+How to teach this tool to your staff (facilitation session)
+Report Backs
+ 
+Learning Objectives
+
+    understand what the Open Web is and why it's important
+    know about Mozilla's "Creating a Generation of Webmakers" initiative and want to get involved!
+    have learned what hacking and remixing means
+    how to use the Hackasaurus XRay Goggles and the Popcorn Maker
+    know how to integrate specific Mozilla and Open Web tools into PD
+    how to present the tools and information to the staff in a hands on, informative, and most importantly, fun way.
+
+________________________________________________________________________
+ 
+Type
+Panel/Talk
+ 
+Audience
+Adults
+ 
+Abstract
+Mozilla has made a   committment to Learning.  We're aiming to create a generation of   Webmakers. A web maker is anyone who makes things using the open ethos   and building blocks  of the web. This panel will talk about the Web as  a  set of building blocks, like lego and why you should care. When  Mozilla  talks about its new initiatives, it's important to understand  that  Mozilla isn't aiming to create computer scientists or career  developers.  Mozilla just wants everyone to understand that there is a  4th literacy,  Web Literacy, and in this day and age, it's important to  understand  that code can be pulled apart and remixed. 
+ 
+Agenda (Talking Points): https://mozlearning.etherpad.mozilla.org/9
+
+    Lifelong Kindergarten - Playing and Making is central to learning
+    People are used to elegant consumption, but not what's underneath.
+    our world is built on technology, web citizenry
+    the Web is designed to be taken apart and remixed, the Web has unlimited potential. 
+    What code is
+    the Mozilla ethos and toolkit
+    Xray goggles
+    interest based learning ("Why should anyone care? Look at their passion, webmaking can be embedded in anything)
+
+Learning Objectives
+
+    understand what the Open Web is and why it's important
+    know about Mozilla's "Creating a Generation of Webmakers" initiative and want to get involved!
+    have learned what hacking and remixing means
+    how interest driven learning is changing education
+ 
+___________________________________________________________________________
+ 
+Type
+Workshop
+ 
+Audience 
+Interested Educators (non web savvy)
+ 
+Abstract
+This workshop serves  as a crash course in integrating webmaking into your teaching  initiatives. You'll be introduced to a couple of collaborative webmaking  tools, and guided in the integration of webmaking activities in your  curriculum.
+ 
+BRAINSTORM LIST:
+Etherpad
+Wordpress
+Google Docs
+Tumblr
+ 
+Agenda
+Case Study Demos of Webmakers
+Demos of Mozilla Tools
+Crash Course Collaborative Tools
+How to integrate this tool in your curriculum
+Make Session
+Report Backs
+ 
+Learning Objectives
+
+    understand what the Open Web is and why it's important
+
+    know about Mozilla's "Creating a Generation of Webmakers" initiative and want to get involved!
+
+    how to use the Hackasaurus XRay Goggles and the Popcorn Maker
+
+    know how to integrate specific Mozilla and Open Web tools into curriculum
+
+    how to present the tools and information to the students in a hands on, informative, and most importantly, fun way.
+
+ 
+----------------------------------------------------------------------------------------------------------------------------
+ 
+Type
+Workshop
+ 
+Audience 
+Interested Educators (semi web savvy)
+ 
+Abstract
+This workshop is an  introduction to designing for the web. This course will introduce you to  specific web design knowledge that will help you create learning  materials that engage your students. Designing  for the web is an  evolutionary  design process. You'll continually  update and change  content and  structure to make your webpage better.  It's really  important to have a  plan when designing for the web. This plan will  help you work efficiently and allow you to reach the people you're  trying to reach. It will also help you plan web projects for students.
+ 
+Agenda
+Planning
+Principles of Design
+Images
+ 
+Learning Objectives
+
+    the ability to plan a site, organize content
+
+    understanding of design aspects
+
+    understanding of image formats
+
+    intro to HTML/CSS for design
+
+    know how to integrate design praxis into curriculum
+
+    creating projects for students that are hands on, informative, and most importantly, fun.
+</Text>
+        </Document>
+        <Document ID="6">
+            <Title>educon</Title>
+            <Text>#teachtheweb: Open Curriculum and Creative Remixing
+short
+Mozilla Webmaker is tools, curriculum, and a community building a movement to teach the web. Join Mozilla Webmaker to explore remixable curricula and a few easy-to-use creation tools for your classroom. Share your own strategies for bringing the web and all that it is into your students lives.
+extended
+There are a gazillion open educational resources, but educators are natural remixers, natural hackers and naturally find the value in play and exploration. We create new curricula not always because we have to, but because we know that we can make things more relevant to our particular learners. In this conversation, we’ll explore what’s missing in our curricula creation processes, and we’ll share strategies for innovative media use in the classroom. We’ll play around with Teaching Kits and learning resources educators have been making on Webmaker.org, and we’ll look at the tools they’ve used to make them.  We’ll also talk about why Web Literacy competencies are important to bring into the classroom and look at some baseline curricula that can be used to teach while you yourself are still learning. 
+We can use open technologies to help students take control of their own learning, and we can use these technologies to better our own praxis, extend our personal learning networks and find mentorship. There are thousands of online tools and systems that promise to be the perfect environment for learning, but what if the Web itself is the platform? Connected Educators are beginning to explore this idea, and Mozilla Webmaker wants to help you both learn and teach the web.
+Conversation type
+This conversation will be an active, maker focused workshop. Participants will begin by reflecting on their OER creation processes and surfacing the one (or top three) biggest headaches about contributing to or using open educational resource libraries. Then, we will form creation groups to MAKE OERs through remix and exploration. At the end, we’ll have some new resources and participants will have a better understanding of how the web IS the platform.
+
+A look into Open Culture
+Short
+Mozilla is one of the pioneers behind the idea of “Open”. It’s history and 
+Extended
+
+Conversation type
+
+</Text>
+        </Document>
+        <Document ID="23">
+            <Title>EcEI14</Title>
+            <Text>6th European Congress on E-Inclusion 
+Keynote: Delivering Digital Skills
+Hello everyone and thank you for having me. My name is Laura Hilliger and today I want to talk about what we call Web Literacy, how we can embed the skills and competencies that term covers into any educational endeavor, and why it's important.
+I only have 15 minutes, which is nowhere near enough time to convince anyone who isn't already convinced that embedding digital skills in our educational programming is a politically, socially and economically responsible thing to do. It’s not even enough time to convince you that “digital skills” does not mean typing and using spreadsheets. So if you aren't convinced, please do get in touch. There are a million reasons why we have to stop pretending that delivering real digital skills to learners isn't important, and I probably  know all of them.
+I also don't have enough time to talk about all the different kinds of work that Mozilla and the open source community in general does in this arena. You know Mozilla as the maker of Firefox, and now Firefox OS, but there are still a lot of people who don’t know that Mozilla is an open project. That means that anyone, anywhere can participate in the work we do. 
+We’re a diverse community of people, some of whom are librarians and educators, some are developers and designers, some are evangelists, marketers, poets, scientists, journalists and people who hold every other type of interest. The thing we all have in common is that we believe that the web has to remain open, it’s how it was designed to be, and we work together to make sure it stays that way. We’re not waiting around for everyone to catch up with the idea that “digital skills” are about education, in the highest philosophical definition of the word. We are building the Internet that society needs.
+Mozilla is a non-profit. There are no share holders. There are no stock fluctuations. Our mission is to help people understand what it actually means to have an open web, and we have a set of principles that we believe are critical for the continued health of the Internet. Mozilla promotes teaching the web, and we build the underlying technologies that make it possible to keep the learning relevant over a long time. We work to ensure open technical standards, and we strive to help others understand the benefits of being inclusive and working collaboratively.
+What I mean when I say that Mozilla promotes teaching the web is that we are a community of people who embrace and spread the ethos of open culture. Openness is about transparency, decentralization, and remixability, it’s also about allowing yourself to have ideas and to play with them, allowing and encouraging others to play with them, allowing yourself and others to fail (because failing is an important aspect of learning) – both online and offline. We believe that people should create knowledge, rather than just consume it, and this is where Web Literacy comes in. 
+
+You see web literacy isn’t just about technical skills, technical skills can be learned on your own through tinkering and play. Web Literacy is about active citizenship in the digital age. 
+
+The Web isn’t just a technical platform where we store bits and bytes. It is a manifestation of human knowledge or even the human experience, the good AND the bad. 
+
+If you believe in the remarkable ability of the human brain to invent and innovate and shape ideas (how could you not?), then the web is a place to share and collaborate on ideas to solve the types of global problems we face now and in the future. So we have to teach the web, we have to increase global web literacy. We have to show people how to contribute, how to work together, how to MAKE, BUILD, CREATE, PLAY, FAIL and read, write and participate in our knowledge network.
+
+What kind of competencies and skills am I talking about? 
+I'm talking about the social skills required for digital communication and efficacy in the digital space. I'm talking about the skills people need to work together and make things in an online environment because more and more the things we need to make are abstracted in software. More and more we need people to be able to interact through the filter of digital technology and this type of communication is very different from being face to face with someone. You’ll notice I haven’t said anything about coding. It’s not about programming. It’s about teaching people how to read, write and participate on the web, and the best way to do that is to help them participate in real life, and then layer the digital stuff on top. 
+
+So, given that we're talking about a variety of skill types, from technical to social to cognitive, affective and even motor skills, how do we teach them? What has been working?
+
+We've had a large degree of success with constructivist, making as learning methodologies. We use interest driven, project based learning to help learners connect head and hand and create things that are relevant to them in their individual contexts. We encourage participatory interaction, which underpins communication on the web (because you have to both push and pull in order to be a digital citizen), and we deliver digital skills as a byproduct of the cognitive and social skills that are arguably more important in the digital environment and in life. 
+
+We want people to share digital skills and cool techie stuff, to help people build and make and create and help them connect to the giant community of open learners on the web. We want people to understand open culture, understand the mechanics of the web so that they can be citizens of the world. 
+
+We’ve seen community teaching and learning in action during our Maker Party campaign. This year there were over 2500 Maker Parties in over 450 cities, in 86 countries -- reaching over 125,000 learners. By taking the simple step of inviting people to teach locally, we ended up with something powerful and global.
+
+If we want to build our futures – and share what we know-- then we need to empower a massive community: a community to teach the world the web. The good news? The formula for teaching at a massive scale is actually quite simple. 
+
+1. People who love the web ...
+2. Take action ...
+3. To teach other people to about the web.
+
+We’re all learning about learning in a world where technology changes every five minutes and what we used to know about teaching and learning may no longer be relevant. 
+
+Part of that learning about learning happens in the real world. We believe in blended learning, and encourage others to get together both online and off to play with the Web, make things, collaborate and share. We urge people to gather in their libraries, community centers and even parks to teach each other the web. This is a big part of our culture, getting together and using both digital and physical materials like post it notes and tape to explore ideas and make things. We are working together to teach open culture, web mechanics, social skills, citizenship. 
+
+We make learning resources for both online and offline workshops or gatherings, and we encourage sharing your offline experiences with the greater online community. In this way, we never stop learning from one another. 
+
+A large part of my job is to train people who want to teach the web to begin thinking about learning in a different way. We’re modeling participatory and collaborative learning experiences by running learning events where roles are shifted and urging everyone to make and learn together. We don’t have to be programmers to deliver digital skills, we don’t have to know everything. Our youth can teach us and each other. I find that putting different skill sets together and encouraging peer to peer interaction is a much more effective way to transfer technical skills. Open, peer to peer, participatory learning methodologies help develop confidence and agency in our learners. They are challenged to think out loud.
+
+The pushback that I sometimes get with this kind of thinking is that people won’t acquire digital skills if we spend our time focusing on the collaborating and thinking parts, if we aim for agency and confidence first. But they’re wrong. Digital skills are no use if you don’t trust yourself to fail. They’re no use if you can’t communicate. They’re no use if you don’t believe you have something to say. And the people in the world who have the most technical skills - the programmers, the technical architects, the digital makers, the multimedia designers - we had to develop confidence to try, because most of us taught ourselves these skills while schools where busy failing us.
+
+Accessing the place inside someone where confidence builds is about creating a safe space.
+
+The fact that libraries have the perfect set up for creating that safe space is only one of the reasons that libraries are the blindingly obvious, right place to be pushing this kind of work. Libraries have all the conceptual and physical attributes necessary, and the similarities between a library and the open web is almost creepy. 
+
+Libraries house knowledge, so does the web. Libraries are community centers, so is the web. Libraries are supposed to be inclusive, so is the open web and the community that keeps it open. Libraries can provide access to the marginalized, they can give people a sense of belonging, they can be the place in the world where a person can learn how to be a person in the world, and the web can be and do those things to. Libraries though, have the added bonus of being a physical space where people can connect in real life. And despite my love for virtual connections, we still need physical ones, and that won't ever change, it's part of being human.
+
+So let’s use our public spaces, #TeachTheWeb and work together to provide people the type of educational opportunities they deserve to have in this day and age.
+
+Thanks so much for listening, and I’m happy to answer any questions you might have.</Text>
+        </Document>
+        <Document ID="16">
+            <Title>MakerParty Partners</Title>
+            <Text>Vid 1 - intro
+
+HI, and welcome to the Maker Party Partner training video series, my name is Laura Hilliger, and I like to Teach the Web. I’m the Mozilla Training and Curriculum lead, an educator, a geek, and an advocate for openness and learner-centric methodologies. 
+
+Today, I’m going to help you understand how Maker Party works and give you some tips that I hope will help you and your organization get the most out of this global campaign.
+
+First, I’m going to give you a brief background on Mozilla, including the pedagogies behind Webmaker and Maker Party, with a particular focus on this idea of “web literacy” and what it means for Maker Party.
+
+I’ll talk about how we can support each other during Maker Party, and I will show you the 4 software tools we’ve been working on. 
+
+After that, I’ll talk about the open educational resources we have at Webmaker.org, what’s innovative about the model and how you can use them, remix them and build your own. 
+
+Finally, I’ll talk a bit about how to facilitate a Maker Party and give you some tips on sharing your organization’s story and broadcasting your actions to the global community.
+
+Let’s get started!
+—End intro vid—
+—Mozilla bg vid 2—
+The Web is an ecosystem of knowledge – it holds the world’s information and has the power to connect all of us, to help us find our kindred spirits, to change the world. It can do all of those things, if we have the basic skills we need to explore that ecosystem and exchange ideas, stories, truths with one another. 
+
+I love to teach the web, which is why I love working with Mozilla. Yes, Mozilla makes Firefox…
+
+Really, Mozilla is a community of people. Mozillians are all over the world working to teach the web. And I don’t just mean formally to students, but to each other, to their families, to their friends, in their every day lives. Mozillians are people who know that the Web is built to be interoperable, knowable and that it belongs to us. All of us. And we teach the web to keep it that way.
+
+We are a non-profit. The Mozilla mission is to help people understand what all of this means, and we have a set of principles that we believe are critical for the continued health of the Internet.
+
+One of those principles is the idea that individuals need to have the ability to shape their own experiences on the Internet. To me, that means that individuals need to have the competencies and skills that allow them to read and write the web, to participate in global discussions, to think critically about what they find there. It’s about being educated in the 21st Century.
+
+At Mozilla, we’re trying to help bridge the gap between technologists and educators by helping both groups have a conversation about teaching and learning the web. We’re trying to get all of these people who care about the web from different perspectives talking together to improve both our pedagogy around the web as well as the web itself. 
+
+That’s part of the reason that we began developing the Web Literacy Map, which underpins the work we do at Webmaker and through campaigns like Maker Party. The Web Literacy Map is a collection of competencies and skills that we believe people need to read, write and participate effectively on the web. They are not just technical skills, they aren’t centered around coding or scripting, the competencies and skills included in the Web Literacy Map are about the culture, mechanics and citizenship of the modern age. Don’t think of the Web as just a platform or a tool, think about the connection it provides us to each other. 
+
+At Webmaker, we teach the web through making. We try to meet learners where they are by zeroing in on individual interests and helping folks make the things they want to make. We believe in Making as Learning and that the best way to learn new skills is by doing something relevant to each learner and doing that something together. Like many of our partners, we believe in connected learning, constructivism and other progressive pedagogies.   
+
+Part of that learning about learning happens in the real world. We believe in blended learning, and encourage others to get together both online and off to play with the Web, make things, collaborate and share. We use Maker Party to  grow connected learning networks around web literacy, digital skills and maker culture. 
+—End vid 2—
+—What is maker party vid—
+
+So what exactly is a Maker Party? Good question! A Maker Party is an online or offline event that teaches some aspect of Web Literacy and shares the event and outcomes with the world via social media and the Webmaker events platform. 
+
+We encourage the use of progressive pedagogies and practical projects to keep learners interested, and we like to see people having FUN. Learning is supposed to be fun, it was never supposed to be a chore. A Maker Party is fun, it is educational and it creates an environment where anyone, youth or adult, can make something, learn and connect.
+
+Through our brand and reach, we inspire a global audience to take action and come together in a 3 month campaign to help learners become makers and gain valuable online and offline skills. We are dedicated to spreading web literacy and we are happy to be working with you to showcase the amazing learning that goes on during Maker Party. We’re very eager to make it easy for you to participate in this global movement.
+
+Because it’s so much fun to get together with people who like to learn, we encourage and support people who want to organize events in their local communities. From the kid who invites a couple of friends over to build a website to the people who run hack jams or the organizations that set up a sort of learning buffet for the entire community, Maker Parties are finding new and exciting ways to teach the web and share web culture.
+
+One of our most successful examples of web culture bleeding into the real world (and vice versa) are the Hive Learning Networks. Hives are networks of like-minded organizations in specific cities that collaborate to offer a wide range of learning experiences to their communities. Most often, the organizations are informal learning institutions like museums or community centers, but the diversity in those types of organizations is wide ranging. Hive NYC, for example, includes everything from internationally known museums to neighborhood community centers.
+
+In Hive Learning Networks and during Maker Party, our partner organizations work to share resources in an effort to spread learning and literacy. It’s through collaboration and open conversation that we are able to secure funding to bring a variety of innovative learning experiences to local communities. Mozilla has the honor of stewarding Hive Learning Networks in New York, Chicago, Toronto and Pittsburg, and we’re helping budding networks in Athens, San Francisco, various cities in India, and elsewhere grow a make impact in their local cities.
+
+It’s very difficult to cover the breadth of stuff that we do here at Mozilla, or to separate our different initiatives. At the most practical level, Maker Party is about holding up your hand and saying “Yes, Web Literacy and Connected Learning are important to me as well!” and then backing up the statement with some sort of action that shows that – be it an event or the development of open educational resources or tools that support teaching and learning the web. 
+
+—Tools vid—
+Now I’ll show you a few tools that you can use (freely of course) to help you teach the web while you’re teaching other things. You see, I believe that the web can be taught alongside of any other subject. I also think it’s important that we start to teach the basic building blocks of the Web, at least so that learners can mess around with the Web and so that they can use their hacking abilities to be expressive.
+
+We have four tools, and I’m going to quickly show you each one. BUT, you should go and play with them sometime when you have a few moments to be creative. Then share whatever you make! You can use the #MakerParty hashtag or #TeachTheWeb on Twitter
+
+The first is the XRay Goggles which reveal the simple structure of the web. The web is like legos, HTML are the basic building blocks, and anyoe can learn to rearrange those blocks into something new.
+
+The Goggles are a good first step into the power that we have to be more than users of the web, and instead makers of the web. We can rearrange the basic building blocks and explore the web critically, we can use this tool to rewrite what others have written. 
+
+And when we feel comfortable changing the web that exists, we can learn more to write a new web.
+
+I’m going to walk you through HTML at a very basic level…
+
+Any more complicated webpage are just built on top of those elements.
+
+For example, here we have a webpage about animals. This page was created by the London Zoo and is a remixable Thimble project designed to teach kids about a few endangered species. If I hit the Remix button, the page and how it was built, loads into Thimble, a browser based editor…On the left….
+
+We know that the Web is not about code. And we know that understanding a little bit of code is not enough, webmaking is about expression, and learning a little bit of code empowers people to be expressive.
+
+The third tool is designed to mess with media on the web. It can help you explore critical thought, commentary and participation in the digital age. It kind of plays off the idea that we don’t just have to consume media, we can create it, hack it, change it and change its meaning. It’s also one of the coolest tools ever, and I’m not at all bias…
+
+Popcorn Maker allows you to pull the Web itself into video. You can use it to tell a story, explore or comment on an issue. There are a lot of great examples of Popcorn Makes that folks have made, and I encourage you to go to Webmaker.org and explore what people are doing. This piece, by the radio rookies, has helped me explain the power of Popcorn Maker for education so many times I’ve lost count. 
+
+This piece was put together by a group of kids in New York. Let’s take a look at how it was built…
+
+You can see that Popcorn Maker is a powerful tool when you’re thinking about web literacies as well as critical literacies, digital literacies, communication literacies and all the other literacies.
+
+Our newest tool is in active development. It’s called Appmaker. This tool is being built to eliminate the need for expert programming knowledge in the design and development of mobile apps. 
+
+Appmaker consists of Bricks, which hold specific kinds of functionality. We can place different kinds of bricks on the canvas, and they can send signals across a broadcast channel to other bricks. 
+
+We’re actively working to improve the usability and functionality of Appmaker, but you can teach mobile ideation and a basic level of app making using this tool and the supporting teaching kits. 
+
+—End tools
+
+Teaching kits and resources
+
+We’ve been creating open educational resources (or OERs for short) that are designed to be remixed. We, the entire community, are co-creating digital and web literacy curriculum together. We champion exploration, play and even failure. We work openly and learn from one another.
+
+The model behind our open educational resources  uses modularity to improve the remixability of lesson plans. Traditionally, educators have made curriculum for their specific group of learners, and that’s still a necessary thing. But with the web, we can separate the specifics from the general and help people make OERs that become plug and play. Let me explain what I mean.
+
+This is a Teaching Kit from Webmaker.org. The Kit page includes the specifics of the lesson. What the overarching learning objectives are, what order the activities will be in, what the essential questions are. But the activities exist in their own pages, with a modified structure designed to give a general walkthrough of how to run a particular activity. Because we are always having to modify our teaching plans based on who we’re teaching, the Teaching Kits use this modularity to separate overviews and supporting resources from activity descriptions and how to guides. All our Teaching Kits are built with open web technologies, so you can always change aspects about them, rearrange and rebrand based on who YOUR learners or community are and what interests them. 
+
+As an example, have a look at this remix (SPECTROGRAMS). One lays out how to use this activity to teach overarching themes about interactive video and the other is being used to teach people how to think about online privacy. I don’t have to create a new activity to introduce privacy in a new Kit, I can use one that someone else has made.
+
+Working together on creating curriculum that functions in this way means that we can solve some of the common problems with open educational resources just by using the web as the platform. These OERs have the version control, authorship, and remixability, built into the resource itself, as each resource can be launched in it’s editing application, right on the web itself.
+
+Everything we’ve been making is open, free and accessible via webmaker.org. If you’re interested in a specific Web Literacy competency, you can use the new Resources section to find Teaching Kits for your Maker Parties.
+
+Finally, we’re building new tools and features to help you find and build the resources you need. The new Resources section allows you to suggest resources and tag things from across the web with the Web Literacy Map, and the Kit Builder makes it easy to build new kits by removing the necessity of editing HTML. Both of these tools are new and in active development, so they’ll be improving each and every week.
+
+—End kits
+—Facilitating
+Facilitating a learning experience is incredibly rewarding. We encourage you to find a Teaching Kit at webmaker.org and challenge yourself to run a play testing event for other members of your organization. That way you can try out the activities and see what you like about the content, and what you want to change. You’ll gain valuable experience in your teaching, and you’ll learn how to navigate potential problems. In short, practice makes perfect.
+
+Maker Parties are participatory events, so the facilitators job is to engage people around their interests and help them take control of their own learning. 
+
+I like to think of my event planning as designing a learning experience, and I try to set up meta structures so that every type of learner can find a way to communicate, play, create, share and engage with themselves and their peers. Learning is all about shifting perspectives. If you can use your learning objectives to open the door to a learners interests and passion, they will be enthused about continuing their learning in that area.
+
+Practically speaking, the first rule of running an interactive learning experience like a Maker Party is to relax and go with the flow. After days, weeks or months of planning, don’t be surprised when something unexpected happens in the first ten minutes. Learners will be full of surprises, so being adaptable and flexible is important for them to get the most out of your event. 
+
+—connecting
+Before, during and after your Maker Party, talk about what you’re doing. Work in the open and share your plans, insights, experiences and makes with the global community. Working in this way will bring more people to your organization by empowering them to find interests within what you’re doing. It will also help you gather useful feedback so that you can be prepared for the day of your event.
+
+Use hashtags, blogposts and the Web to share what you know, ask questions, gather resources and engage with a global community of people who care about teaching and learning in the 21st Century. Maker Party is for anyone that believes in connected learning and empowering people. 
+
+During Maker Party, we’ll learn, make, share, break, fail and learn some more, and we’ll do it all together. We’ll continue this work, pushing the future of education and technology by making and sharing and being champions of open culture.
+
+So in closing, the Digital World is gigantic, and we’re a small, but growing community. We’re passionate, idealistic, friendly and silly. We’re sharing everything we do through the #teachtheweb and #makerparty hashtags and @webmaker twitter accounts. Add your Maker Parties to the Webmaker events platform and find other Maker Parties by searching the event database. We’re so glad you and your organization are involved, and we’re looking forward to seeing your work.  Thank you for helping us teach the web.</Text>
+        </Document>
+        <Document ID="7">
+            <Title>FITC</Title>
+        </Document>
+        <Document ID="8">
+            <Title>FITC</Title>
+        </Document>
+        <Document ID="24">
+            <Title>Connected Learning Alliance - TeachTheWeb</Title>
+            <Text>Web Literacy Map and curriculum
+—mention Web Lit Map as more than technical skills, remixablity, modularity, OER problems
+online/offline professional development within our community, participatory pedagogy 
+—mention open access to others in the community, role shifting, trust,  professional development as entrance into open sources, open forums (Discourse), online mentoring, new 2015 features around grouping and mentoring in online environment
+Web Literacy Clubs (in relation to Maker Parties and Hour of Code)</Text>
+        </Document>
+        <Document ID="17">
+            <Title>OpenSym</Title>
+            <Text>How You Run a Meeting Says a Lot About Your Values: Participatory Practices for Open Communities
+
+Hi, my name is Laura Hilliger. Today I’m here, stepping in for my colleague Michelle, who is stepping in for me on the other side of the world. That’s a long story, but I swear it makes some sense. She’s helping a community internalize a lot of the things I’m going to talk about today.
+
+Had Michelle been here, she would have written a very, very different talk…
+
+Wait before we go any further and because I’m going to talk about participatory practices and sharing, I’d like for you all to spend the next 5 minutes participating in a conversation with someone you don’t know. Everyone turn to someone nearby, who you haven’t met yet, and introduce yourselves. Ready? Go.
+
+I wonder what you learned in the last five minutes. Can you summarize your conversation in a single word? Come on, shout it out.
+
+I swear, I was secretly hoping that someone would shout out “oberaffentittengeil”
+
+SLIDE 2
+
+I’ve done that a million times. Randomly talked to the person next to me, randomly inquired about what brought them to where they are or what inspires them. Not because I was asked to, but because I caught someone’s eye or because I thought their shoes were interesting. I know that all of us need connection, and so I make an effort to connect with people around me. I’m an active participant in my own life.
+
+I am constantly learning about participation. I don’t mean that I’m studying participation or collaboration as an academic, I’m not actually collecting data on how or why people start on a pathway towards an open and participatory viewpoint, I’m saying that as a human being, I am learning what it means to participate. In life. In work. In relationships. In connection. In being human.
+
+You see today, today being a day last week when I started writing this talk for you, my colleague, someone I admire a great deal, called me a sociopath. He was just kidding, but it made me have to stop and think about some of my self perceptions and behaviors. Sometimes I think I have a lack of empathy. I’m nearly an exhibitionist in group settings, despite my raging anti-social behavior in personal contexts. I swing a full gambit between extrovert and introvert depending on the day, time, situation and I am diagnosed manic-depressive. I am both arrogant and self defacing, brutally honest and a cunning liar, neurotic, self assured, sporty and geeky. I am, in short, a conundrum to myself.
+
+I ended up taking an Internet quiz that would tell me whether or not I’m a sociopath because being able to throw all my hangups on a single term would be convenient. I do have anti-social attitudes sometimes…Really, it’s ridiculous that I would even take such a quiz, as I’m obviously not a sociopath.
+
+Naturally, the quiz told me so. I’m within the normal range for a typical human being. And as a sidenote, if you happen to be worried about whether or not you’re a sociopath, you aren’t a sociopath. Humans have an unbelievable range of emotion, this wheel doesn't even begin to cover it, though, to be fair, it'd be pretty hard to graphically encapsulate all human emotion. 
+
+SLIDE 3
+
+Emotion is influenced by surroundings and norms, so what keeps us from truly participating 100% of the time is fear and the social and cultural norms we’ve been taught are rules in civil discourse and social behavior. We’ve been taught that that the speaker is notable, that the CEO has vision, that the teacher is the expert, that the police maintain control, that respect means being quiet and letting others have the floor, and if someone is wrong, gently speaking up, but only in certain situations and those situations are discoverable by common sense…Naja. That gets a bit complicated.
+
+But all of that is a collective perception that is, in this day and age, teetering on the precipice of change. 
+
+With the invention of the web and it’s ability to connect us, we’ve started to push back at the public perception of “proper” by being bold and trusting in best intentions and it’s beginning to bleed into the real world in fascinating ways. Much of the open community is adopting views around the way we interact with each other. Individual views that were, at some point, collectively considered to be impossible to scale. Views like “Everyone’s voice matters” or “There are no stupid questions”. Simple, humanistic points of view that are directly related to how we as human beings participate in the world and govern our lives.
+
+Part of the reason that I’m here today is to promote the idea that using participatory practices in your meetings and events will lead to better solutions, more inspirations and more learning, and in theory, everyone here knows that. But when it comes to that question of scale, people have a hard time imagining how they can implement participatory practices when there are thousands of people in the room. For whatever reason, we tend to think that a participatory event is bound to be a chaotic free-for-all where nothing gets done and no one can possibly learn or make anything, but here’s the thing: Learning and making aren’t passive, and participatory does not mean formless.
+
+We can and should put people in charge of their own learning and lives by giving them the agency to take control. We should encourage people to share their perspectives so that we can instigate change, be better people. We can encourage these things on a large scale, and at Mozilla, we have. 
+
+[Mozilla story] then SLIDE
+
+SLIDE 5
+A large part of my job is to help people who want to teach the web to begin thinking about learning and interactions in a different way. I sort of think of "participatory" as the difference between a lecture and a conversation. It's the difference between passive and active. At Mozilla, and more broadly in the connected learning and progressive pedagogy landscapes, we believe that centering on people’s interests and facilitating connections to help people produce something is more valuable to their development.
+
+So we’re modeling participatory and collaborative learning experiences by running events where roles are shifted and urging everyone to make and learn together.
+
+SLIDE 6
+
+The Mozilla Festival is one such event, and it’s definitely our largest. We practice what we preach by bringing together different types of minds - educators, technologists, scientists, journalists, artists, filmmakers, activists et cetera and so-forth - and designing a space where they can interact with each other and with ideas. We aim to design a space that honors the participants in the room. It should respect their intellect, their skills and their time. We place making and learning at the center of  our activities, and focus on the desires and goals of the very people we seeks to honor. We ask ourselves every step of the way, is this valuable for people? Is it fun?
+
+And according to the people who come to Mozfest, it is.
+
+SLIDE 7 [Mozfest Video]
+
+Learning how participatory design can empower community was something I started to do at the very first Mozilla Festival five years ago. There, I found a bunch of passionate people who believed that the Web could aid in making the world a better place. They were people who loved the Web I loved. Not a specific website or application, but the entire idea that the Web connects us and allows us to explore key problems together. What I found was a community, my community. I found people who pushed at things in my belief system. Things that had always felt a little wrong, but I could never pinpoint why. I was challenged, engaged - people seemed to care what I thought, even though I didn’t know them.
+
+I started contributing to Mozilla after that first experience. I was so fascinated by the distributed ownership and responsibility, so moved by the idea that connecting could make our world better, so excited that Mozilla was working to make sure the internet stays open, participatory, decentralized and public a 100 years from now, that I just got addicted. I found collaborators.
+
+SLIDE 8
+
+For the last couple of years at the Mozilla Festival, I’ve been what we call a Space Wrangler. Each Space Wrangler has a floor, there are 9 floors, and the job is to make the floor awesome by helping facilitate the things that our community wants to do. We are responsible for making sure that the 1500 people who show up have a good time. That they feel valued, heard, encouraged. Now, of course 9 people can’t personally attend to 1500 participants, but we can serve as mentors to active and engaged community members who feel agency around the methods, processes and ideas within our projects. 
+
+Last year, I wanted to see if we could create a sort of self-serving participatory experience wherein the people who were already engaged had a supporting mechanism to engage others. What I mean is, I wanted to make something that was visually interesting enough that people from all over the festival would come to it, and once there they would find calls to action that no matter what each individuals skill level was, they could engage with.
+
+SLIDE 9
+
+I had this idea for a giant scrum board kind of thing. Basically, there were three columns "to make", "making", "made". The 1st column….
+
+I designed a color-coding system and joined forces with a colleague who was trying to find a way to get more participation into her track. We worked with over a hundred people from all over the world to modify their session proposals to be production centered, detailing projects into hundreds of discrete tasks that anyone could pick up and do. 
+
+One of the things I'm quite good at is breaking down complicated problems into actionable steps. So for each proposal I read, I asked myself, what is this person really wanting to do? How can they do that with other people? And what is the result of them doing that? I read a proposal that wanted, for example, to fight the sad truth of gender biasm by helping people understand how it plays out in the media and in maker culture. The applicant wanted to make a piece of curriculum that taught what gender stereotyping is and how to spot it. So, I worked with her to break down "Curriculum for Gender Stereotyping" into tasks like "define learning objectives" , "find website promoting false portrayals of women" , "list some discussion questions for exploring gender stereotypes" etc. Breaking down a complicated project in this way, allowed us to define tasks that anyone could do, and in the end, the tasks could be added back up into something useful.
+
+We organized extensive sets of community-run makes and activities that were based on making or building something together. 
+
+To be honest, I had never attempted a self-serving participatory action like that at such a scale. I’d used the method with a few people, maxing out at about seven colleagues, all of whom are like me in that they participate fearlessly. I was terrified that the structure would fall flat on it’s face, and that no one would engage. That people would roll their eyes at the tasks we spent so much time detailing.
+
+SLIDE 10
+
+What happened was an amazing experience where people opened their minds to the possibilities of massive collaboration, and we made a ton of stuff. Together, we made things for Emergencies + Conflict Zones, to Empower Diverse Audiences, to promote and support Cultural Archives, for Low-Fi and Offline Environments, for Digital Storytelling + Collaboration, to Put the 'Glitch' in Remix: Mashups, Memes + Art and we got geeky with makes for Developers and the Future. 
+
+We made curriculum, examples, handbooks, best practices, prototypes…well we made a TON of stuff.
+
+The sheer physical act of translating ideas and quandaries into colored cards, basically project briefs and task lists  manifesting as a rainbow, helped people have agency. And once people have agency, they are much more likely to wield it. 
+
+No one read one of these cards and did exactly what the card said, because none of the cards were exacting enough that a robot could have done them. The humans had to use their human to make decisions, but they didn’t have to vocalize an idea necessarily. They didn’t have to be brave if they didn’t want to.
+
+ There are, of course, some folks who are activated enough around their ideas that they riff easily off what other people are doing, but the majority of people need design constraints in order to comfortably participate. Practically speaking, finding ways to broadcast restraints so that people can participate is a delicate balance. You don’t want to dictate, but you don’t want to leave everything to chance either.
+
+This year the Mozilla Festival is from October 24th to the 26th in London. If you want to see a reflection of how Mozilla operates, take part in a truly participatory experience and come join us.
+
+SLIDE 11
+
+Championing open learning and designing events where participation is encouraged and rewarded is only a part of how you can use participatory practices to strengthen your communities. If you implement systemic changes that make open collaboration the norm instead of the fun thing you get to do every once in a while, you reap the rewards of what that collaboration brings. 
+
+I think the Mozilla project is a good example of this. World wide, we have about 1100 paid staff in 20 countries, many of us working remotely. The rest of Mozilla is a community who are invited to participate in everything we do.
+
+SLIDE 12
+
+Designing for participation is at the heart of all the things I work on at Mozilla, it is the reason I publish week notes containing links to every document, image, bug and product. I organize my own work around the idea that other people can participate, and most of my colleagues do as well. We work in the open, because participation is key for Mozilla. Without our volunteer community, we can't compete on a global market.
+
+I’ve learned that you have to help people understand why their participation is necessary and create systems that make participation easy. You have to help people understand what you’re working on, and you have to respect peoples contributions. Most importantly, you have to model the behaviors you want to see in the world.
+
+SLIDE 13
+
+I participate in and run connectivist learning experiences that manifest in both online and offline environments. I define a connectivist learning experience as an experience that has the express purpose of connecting people and strengthening networks. The point of our gigantic Scrum board at Mozfest was not to get people to make stuff for us, it was to get people to collaborate. This is also a big part of the reason Webmaker Training exists.
+
+Webmaker Training seeks to model behaviors around online open collaboration and being generous with our individual skill sharing. We all have something to teach and we all have something to learn.
+
+SLIDE 14
+
+My dream for Webmaker Training is a blended learning program that uses connectivist mechanisms to connect people in an online environment and then brings them together in an offline environment to see theories and strategies in practice and build things together. 
+
+The curricula we use in Webmaker’s training program focuses on community participation and the values of the open web and open culture that Mozilla champions elsewhere. We teach progressive pedagogies, maker centric skills, web literacy skills, social skills, technical skills, and facilitation skills both online and offline – and we use participatory methods throughout.
+
+SLIDE 15
+
+Our training program is grounded in the idea that if we model the behaviors we want to see,  we will influence the behaviors of others. We use conversation, not lecture, we set up design constraints, we don't demand assignments, we encourage, not dictate, we ask people what they want to learn, and then we base our agenda design on that, we are flexible, and in participatory practice, flexibility is probably the most important thing. 
+
+Your behaviors reflect your values. This is true for our personal lives and our professional lives, wherein our behaviors are often clouded by our own perceptions of self, our cultural and social backgrounds, our assumptions of what the world wants from us. 
+
+SLIDE 16
+
+I think we all want to be honest and open. I think we all need accolades and encouragement, and I think that we all feel like we have to prove to others that we are capable. But we convince ourselves that we’ll be damaged if we live up to those values. We are afraid that someone else will receive accolades that were supposed to be ours. We become discouraged and despondent because we allow ourselves to fester with envy and fear. 
+
+We humans are afraid to just be ourselves.
+
+Through our work to #TeachTheWeb we are encouraging our community and any one else who wants to get involved to try out loud. Come up with a new way to start a conversation, or a new way to implement design constraints, or a new way to get people to share ideas, and then try it. Who cares if you fail? Why not learn something new today.
+
+The way you participate in the world says something about your values. The way your organizations run meetings and events say something about how they view your and your peers contributions. If you’re working at an organization that is open or trying to be open, you and your colleagues should feel comfortable expressing your opinion, even when your opinion is quite obviously not widely shared. 
+
+SLIDE 17
+
+Putting everyone on the same level and giving everyone agency and promoting open collaboration is a terrifying prospect, especially in business. It’s a pretty unnatural feeling. And it’s a pretty impossible feeling to feel, all the time, that we are worthy of having voice. 
+
+We are groomed to understand hierarchies, authorities and seniorities. From the moment we, as toddlers, start testing the resolve of our parents, we start to learn that the world doesn’t revolve around our individual selves and we begin to perceive that someone else in any given situation has more power than we do. 
+
+We are told what we’re not capable, and for whatever reason, we believe what we’re told. Sometimes, we assume that someone else has more information, and sometimes they do, but sometimes the greater good is something we can influence, and we choose not to because, again, we’re afraid.
+
+Let’s be very clear that openness, collaboration and respect for ourselves does not mean filterless, controlling and arrogant. It’s about conditioning our emotional intelligence. 
+
+Slide 18
+
+I think designing and using participatory methods is mostly about opening the door for people. Help people see what it means to have agency. At Mozilla, we're successful if we take initiative. It doesn't matter if we fail, it's about believing that we have agency. 
+
+We work in the open, sharing half baked ideas, prototypes, failures, challenges, and everything else we’re making and experiencing through our work in regular community calls, blogposts, wiki pages and demo rounds. Mozillians participate and collaborate to keep the web open and free, but the open, participatory methods we use can be used for anything.
+
+So let’s get down to brass tacks. HOW do you design for participation? What actions do WE have to take to invite people in? It’s not just facilitation, it’s about empowerment. So how do we empower people to step out of their shell and believe that their ideas matter?
+
+Instead of me talking for another 60 minutes, how about we figure that out together. 
+
+I have here a stack of paper and a bunch of post it notes. Here’s what we’re going to try.
+
+I’m going to give you 20 minutes to brainstorm some ideas of activities you would use to get people participating in a meeting. Your first step is to define the meeting or event like “We’re at a meeting to determine the future of our fish-flavored toothpaste product.”
+
+Then define the problem you need to solve “We’re not doing well in the market, we think we need a new design.”
+
+How will you invite people to solve a problem? Or better said, how would you invite people to design a solution? What if there were 5 people, 15 people 50 people? 
+
+Define the participatory activities that you’ll use to get those 50 people to solve your problem.
+
+In 20 minutes, We’ll do something we call speedgeeking – you sell us your participatory ideas in 1 minute. Your group is going to have 1 minute to blow our minds with your plan. 
+
+So, last instruction, you’re going to collaborate on this. Find five people, once you find your five people, send someone up here to get some paper and markers, here’s a countdown.
+
+Afterwards, we’ll have a little time for Q &amp; A, ok? Is there any one here who hates everything about this idea and is willing to vocalize it? Oh good, that was terrifying for me.
+
+Ok, here’s a timer, ready, set Go!
+
+Group 1 - come on down….
+
+Thanks everyone for indulging me, I hope that was fun for you, I hope you learned something together. I’m happy to answer any questions you might have.
+
+</Text>
+        </Document>
+        <Document ID="9">
+            <Title>FITC</Title>
+            <Text>Hi, my name is Laura Hilliger, and I know a lot of stuff about education, media and the web. Today I’m going to tell you some true stories and then ask you to do stuff for me.
+So, I’m an American, an expat, but still an American. In the United States, we celebrate a day of gluttony called Thanksgiving. It’s considered a family holiday, and the general practice is to get together with your family, cook obscene amounts of butter and gluten heavy dishes, drink hard liquor as an aperitif, stuff turkey and dressing and gravy and bread and corn pudding and homemade noodles and green bean casserole and mashed potatoes and sweet potatoes and maybe a piece of lettuce down your throat, easing the transition of all this food into the esophagus with too much wine, and then slump in your chair and wait for the tryptophan effect from too much turkey to wear off. After you can move again, you might be subjected to watching American football while trying to eat pumpkin or pecan pie. 
+This past November, I happened to attend the family Thanksgiving, and that’s exactly how it was. It was a marvelous and ridiculous celebration of gluttony and family. On that day, sometime after I was drunk, but before I passed out, my brother-in-law said to me
+“Can you help me buy a new computer? I don’t know what to get.” To which I responded, “What do you mean, I scoped the Dell you have last year. What happened?”
+“Oh, it’s broken, “ he said. “Everything else works fine, but the Internet doesn’t work.” There’s no point in correcting a statement like that, but of course I did anyway. 
+“Well the Internet is functioning fine, what’s causing you trouble is your browser. Which one are you using?”
+He said Firefox, but I sort of double checked with a “Really? You don’t have to say Firefox just because I work for Mozilla, the whole point of Mozilla is to give users choice.”
+“No, really,” he said. “Firefox is broken.” So I offered to take a look. I spent a few minutes emptying his cache and uninstalling some erroneous and irritating toolbars and add ons that get automagically installed when a user doesn’t click the little X at the top of a pop up window. Then I installed an Ad-Blocker and restarted Firefox. 
+“That should do it,” I proclaimed. And my brother-in-law said “See if ‘random-university-learning-management-system-where-my-professors-grade-me’ works.” I pulled up the site and he said:
+“Holy shit, you’re a genius!” and then my mom said “My computer is broken too. I didn’t want to bother you with it, but if it’s the same problem, maybe you can fix mine too?”
+I repeated the process, but this time I had my family standing behind me, watching the “magic” happen. And I explained what I was doing and why. 
+———
+I love the web. I started loving the web the first time my mom got a connection. I had already become addicted to the computer, really early when I learned how to boot DOS and run this game called Digger. When the web became a thing for regular people, I used to sneak out of bed, put a pillow on top of the modem so she wouldn’t hear it connecting, and stay up until 5am trying on different identities as I talked to people in various chatrooms. I was fascinated by the fact that I could be something that I wasn’t.
+I wasn’t always an open source activist. I wasn’t not an open source activist, I just didn’t know anything about open source. I used to think that Open Source was only a way of writing software, and until I got to know Mozilla, I didn’t have any idea of what that really meant. I was building things on the web. I taught myself HTML and CSS and enough Javascript to get by, and I became kind of decent at ActionScripting and building interactive stories and designing and building websites for people. At the beginning of my career I was working freelance and teaching web technologies and software in San Francisco trying, like every other almost college graduate, to figure out what the hell I was going to do with my life. 
+Somewhere in there, I cofounded a startup where we tried to supplement Art Education (or rather the lack of it in our education systems) with online video tutorials on creative subjects. Stuff like how to make mosaics or throw ceramic pots or how to build a website using Fireworks and Dreamweaver. I moved out of San Francisco to Germany and kept trying to make the business run. It failed epically BUT as a last ditch effort to save it, I went to the very first Mozilla Festival in Barcelona. 
+And that’s where my whole world changed. Mozilla threw this festival, called “Learning, Freedom and the Web” to figure out how people were using web technologies in new ways or how they wanted to. They had this theory that putting educators and technologists together could lead to something bigger. Let me back up a second.
+You know Mozilla as the maker of Firefox, and now Firefox OS, but there are still a lot of people who don’t know that Mozilla is an open source project. Hopefully, this crowd knows that. Mozilla is a non-profit. There are no share holders. There are no stock fluctuations. Our mission is to help people understand what it means to have an open web, and we have a set of principles that we believe are critical for the continued health of the Internet. Mozilla promotes teaching the web, and we build the underlying technologies that make it possible to keep the learning relevant over a long time. 
+So Mozilla threw this “Learning, Freedom and the Web” festival, and I applied to show my startup at the Science Fair so that I could understand why no big corporation had offered us millions of dollars for it. What I learned was not that the Startup was a bad idea or that the content sucked or anything that had to do with the startup at all (actually, people really liked it). But what I learned is that Mozilla is a community of people. Mozillians are people who know that the Web is built to be interoperable, knowable and that it belongs to us. All of us. 
+What I found was a bunch of passionate people who believed that the Web could aid in making the world a better place. They were people who loved the Web I loved. Not a specific website or application, but the entire idea that the Web connects us and allows us to explore key problems together. What I found were a bunch of people that were working together to make the world a better place. I found people who pushed at things in my belief system. Things that had always felt a little wrong, but I could never pinpoint why. I was challenged, engaged - people seemed to care what I thought, even though I didn’t know them. WHY!?
+
+I started contributing to Mozilla. I was so fascinated by the distributed ownership and responsibility, so moved by the idea that connecting could make our world better, so excited that Mozilla was working to make sure the internet stays open, participatory, decentralized and public a 100 years from now, that I just got addicted. 
+
+I’ve spent a lot of time understanding why I feel the way I feel about the web. It’s not about the games I can play or the content I can consume, it was about the connection to knowledge and people. 
+I love the web because the Web is an ecosystem of knowledge – no matter where you stand in the debate on the definition of this word, the web is an ecosystem of it. It holds the opinions, beliefs, facts, perceptions, ideas and reasonings of ourselves. The Web has the power to connect all of us, to help us find our kindred spirits, to change the world. It can do all of those things, but only if we have the basic skills we need to explore that ecosystem and exchange ideas, stories, truths with one another. 
+———-
+
+We live in a really interesting time. In educational theory, we live in a time of what’s called structural crisis - it’s the age between ages. Theoretically “structural crisis”  is when the world economy is caught smack dab in the middle of some sort of transformational process. We used to be agricultural societies, then we were living in an industrial world, but it’s changing again. Although our time is commonly called the Digital Age or Information Age, we’re not actually there yet because we’re still in this transformation process. People are still reorganizing how they participate in the world because of new technologies - there are people getting online for the first time every day. Companies still have “no remote work” policies despite the fact that remote working has huge benefits. People are thinking in outdated ways, trying to understand what the fuck is going on.
+
+Change is hard, you know. 
+
+I’m sure you’ve heard this term “digital native”? The idea of a “digital native” is one that stems from educational and social researchers trying to understand how media and technology is affecting our brains. The “Digital Native” theory is one stating that people born after 1990 or so are more comfortable with the various interfaces our technologies have so that we can interact with the bits and bytes than the “digital immigrants” - those of us who are, sadly, older than Nirvana. Clap if you know what you were doing the day Kurt Cobain died. 
+
+Just kidding, no but really? Anyone? Oh dear…
+Just kidding, oh I hear clapping! Whew, I thought I might be alone in that.
+
+So there is no such thing as a “Digital Native”, in fact most of the so-called digital natives suck at technology. This audience excluded, most people suck at technology. We are the minority here. And there’s plenty of research to back that up, but I was too lazy to parse something more recent so I’ll give you this one:
+
+According to the Pew Internet Research Center’s April 2012 survey (“Who’s Online: Internet User Demographics,”), 91% of Americans aged 18 to 50 used the Internet everyday. However, of that 91%, only about 29% have ever contributed knowledge to the information ecosystem that is the World Wide Web. 
+
+“Contributing knowledge” in this context includes using a social network, uploading photos, single-click ratings, tagging content, commenting on products, blogs or newsgroups, sharing original creations online, discussing key issues online, creating or working on webpages, remixing content, using twitter or creating unique webpages. I will note that the 2012 survey only covered two of these markers, the rest were compiled for the 2012 survey from other surveys Pew Internet Research performed in the last five years. But because the usage of the Internet is changing rapidly, these percentages are likely completely outdated. 
+
+That said, if one looked at the contribution of knowledge markers for 2012 separated from earlier data sets, one would see the percentage of people who have ever contributed knowledge rise to 40%. However, the two markers pulled in February 2012 are defined as “using a social network” and “using twitter”. Because these two markers are so broad, it’s impossible to determine whether the usage of social networks or twitter correlates with what academics would call “knowledge contribution”.
+
+The majority of usage is to consume, rather than build or otherwise participate in a meaningful way. The truth is that every human voice adds value to the conversation, and since the conversation is happening online, we need every human voice participating there. We have to teach the web so people find their voices and at least try to solve the problems affecting their communities. We have to empower people to participate in the global exchange. Otherwise, we will continue to lose our rights, we will continue to be violated by the powers that be, we will continue to live in a world where the 85 richest people have more wealth than half of the world’s population combined.
+
+————————————————————
+We have to be more intentional about teaching the web. As Mozillians dream of the future 10 years from now, we’re imagining a world where people are more web literate. Where they can control and shape their online lives. Where they can make better and informed choices about things like privacy. Where people use technology to make the real world a better place.
+
+This is where Webmaker comes it. Webmaker is a call to action for people who love the web to share what they know. We want you--and anyone else you can reach--to help everyday web users to become creators + makers of the web. 
+
+We can’t anticipate what all this learning might look like in 10 years. But we’ve started, bit by bit, by inviting people to teach HTML, CSS and JavaScript. We want people like you to show non-techies cool techie stuff, help people build and make and create and help them connect to the giant community of open sourcers. We want people to understand open culture, understand the mechanics of the web so that they can be citizens of the world. 
+
+We can’t teach everyone ourselves. But what we can do is use the web platform to connect teachers and learners everywhere. 
+
+[Together.js movie] http://www.youtube.com/watch?v=hC9sXz3tRow
+
+I know it’s experimental -- but you can imagine how Web RTC can become a game changer for learning. And this demo also highlights what’s most important: people learning together. Community -- and not just technology -- is at the core of Webmaker and all of the other ways Mozilla teaches. This is in our DNA.
+
+[Maker Party map]
+
+We’ve seen community teaching and learning in action during last year’s Maker Party campaign. There were 1700 Maker Parties in over 300 cities--reaching 60,000 learners. By taking the simple step of inviting people to teach locally, we ended up with something powerful and global. And I’m here today to invite you to be part of it.
+
+If we want to build our futures – and share what we know-- then we need to empower a massive community: a community to teach the world the web. The good news? The formula for teaching at a massive scale is actually quite simple. 
+
+1. People who love the web ...
+2. Take action ...
+3. To teach other people to about the web.
+
+This is all we’re doing with Webmaker and Maker Party. Mozillians are all over the world working to teach the web. And I don’t just mean formally to students, but to each other, to their families, to their friends, in their every day lives. 
+
+To that end, we’ve been building software to make learning about the web easy. We have three tools, which you should go and play with them sometime when you have a few moments to be creative. Don’t forget to share whatever you make with the hashtag #teachtheweb!
+
+The Xray Goggles are a good first step into the power that we have to be more than users of the web, and instead makers of the web. We can rearrange the basic building blocks and explore the web critically, we can use this tool to rewrite what others have written. 
+
+And when we feel comfortable changing the web that exists, we can learn more to write a new web. Thimble is our browser based editor. We’ve been layering learning content on top of the editor, which lets people see how something is built, and then use remix to create something new.
+
+The third tool is designed to further explore critical thought, commentary and participation in the digital age. It kind of plays off the idea that we don’t just have to consume media, we can create it, hack it, change it and change its meaning. It’s also one of the coolest tools ever, and I’m not at all bias…
+
+Popcorn Maker allows you to pull the Web itself into video. You can use it to tell a story, explore or comment on an issue. There are a lot of great examples of Popcorn Makes that folks have made, and I encourage you to go to Webmaker.org and explore what people are doing.
+
+————————
+We’ve been creating some open educational resources that are designed to be remixed. We, the entire community, are co-creating digital and web literacy curriculum together, and exploring the new definition of Literacy and the perceived boundaries of technology. We’re all learning about learning in a world where technology changes every five minutes and what we used to know about teaching and learning may no longer be relevant. 
+
+Part of that learning about learning happens in the real world. We believe in blended learning, and encourage others to get together both online and off to play with the Web, make things, collaborate and share. This is a big part of our culture, getting together and using physical materials like post it notes and tape to explore ideas and make things to further help teach the web, and remember when I say teach the web, I mean teaching about open culture, web mechanics as well as citizenship. We have learning resources for both online and offline workshops or gatherings, and we always encourage sharing your offline experiences with the greater online community. In this way, we never stop learning from one another. 
+
+A large part of my job is to train people who want to teach the web to begin thinking about learning in a different way. Our formal education systems use what’s called a forward facing pedagogy - an “expert” stands in front of a group of “novices” and tells them stuff. This system is what we understand. At Mozilla, and more broadly in the connected learning and progressive pedagogy landscapes, we believe that the system could be better. So we’re modeling participatory and collaborative learning experiences by running events where roles are shifted and urging everyone to make and learn together.
+
+Mozilla has something for everyone, and contributing to Mozilla is a way to be part of something that is bigger than any one project. We are trying to change the world by living with an open ethos. We are trying to empower people to do good things in their individual, hyperlocal contexts and then broadcast those good things to serve as examples at a global scale. Mozilla is a community of people who are looking to narrow the divide between technology and news, technology and science, technology and education, technology and insert-area-here. We want everyone to be creative makers of digital media, so that they can use those skills to change how our world operates.
+
+I love to use the web to learn, but I’m also pretty web savvy. I have no problem figuring out my own problems because I’m not afraid to ask you all for help. But there’s over 5 billion people out there who don’t understand the web that I understand. 
+
+Every one in this room is more talented than you think. Sharing what you know, making things to help other people do things you can do, being patient with people and explaining the basics - these things will help make the world a better place.
+
+So do that and then tell everyone about it. Thanks for listening and I’m happy to answer any questions you might have.
+————————————————</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>
