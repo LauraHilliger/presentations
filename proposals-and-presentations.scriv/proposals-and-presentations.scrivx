@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="LauraBook" Modified="2017-03-09 14:22:16 +0100" ModID="A6AAC97A-F5CF-495E-A6C9-2CC538235C46">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="LauraBook" Modified="2017-04-30 13:30:42 +0200" ModID="9F33763E-86E4-4FD9-874C-96328E9CEF79">
     <Binder>
         <BinderItem ID="0" UUID="7C6F4197-9767-482D-BA97-AD1BD24F0CCB" Type="DraftFolder" Created="2013-11-14 12:28:01 +0100" Modified="2013-11-14 12:28:01 +0100">
             <Title>Draft</Title>
@@ -7,6 +7,26 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
+                <BinderItem ID="34" UUID="E0D200CE-3DE9-4EAF-8199-80A45C37612D" Type="Text" Created="2017-03-15 10:33:55 +0100" Modified="2017-04-29 16:03:26 +0200">
+                    <Title>Engage Prague</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>13599,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="35" UUID="DC84FEAE-FF9B-476C-A8B1-4928ECAC34E2" Type="Text" Created="2017-04-27 16:24:49 +0200" Modified="2017-04-27 16:54:45 +0200">
+                    <Title>finnish residency</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>4670,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
                 <BinderItem ID="31" UUID="1E413FAB-4468-4DF6-94DC-8AFA8576C7BB" Type="Text" Created="2017-01-26 13:30:26 +0100" Modified="2017-03-09 13:27:09 +0100">
                     <Title>Creative Commons Summit</Title>
                     <MetaData>
@@ -14,7 +34,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>2951,763</TextSelection>
+                        <TextSelection>12986,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="32" UUID="43D0D0CB-138C-42DB-9162-2CC3CF9E834C" Type="Text" Created="2017-01-29 17:31:48 +0100" Modified="2017-01-29 17:32:22 +0100">
@@ -54,7 +74,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>406,947</TextSelection>
+                        <TextSelection>130,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="25" UUID="6DE2B8AF-FA8B-40BD-B1F7-A2087942D130" Type="Text" Created="2016-03-22 10:09:54 +0100" Modified="2016-11-24 14:12:45 +0100">
@@ -74,7 +94,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,913</TextSelection>
+                        <TextSelection>65,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="28" UUID="C4366202-0DB2-453A-9454-03229CED7569" Type="Text" Created="2016-08-23 10:54:50 +0200" Modified="2016-08-23 11:59:22 +0200">
@@ -84,7 +104,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>562,0</TextSelection>
+                        <TextSelection>1520,1381</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="33" UUID="68BC1D90-E942-493D-8B19-22EB9DCE6CBB" Type="Text" Created="2017-03-09 14:05:09 +0100" Modified="2017-03-09 14:22:16 +0100">
@@ -94,7 +114,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>400,0</TextSelection>
+                        <TextSelection>149,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="16" UUID="00B74805-4681-40D0-AB80-37F319088D01" Type="Text" Created="2014-05-22 10:28:10 +0200" Modified="2014-06-10 10:57:57 +0200">
@@ -154,7 +174,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1405,3795</TextSelection>
+                        <TextSelection>185,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="19" UUID="80D2FEEF-1A0B-4893-A330-CE52338E3998" Type="Text" Created="2014-08-25 10:25:05 +0200" Modified="2014-08-27 12:39:37 +0200">
@@ -367,7 +387,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-11-14 12:28:00 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="272" Characters="1801" Date="2017-03-09 13:11:38 +0100"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2017-04-30 13:30:33 +0200"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
