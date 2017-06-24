@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="LauraBook" Modified="2017-05-03 09:41:29 +0200" ModID="88FB161D-44A9-4E02-A42F-F8BB2E5263DF">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="LauraBook" Modified="2017-06-22 17:03:29 +0200" ModID="EE8CA037-B58B-4234-BE77-2B2940ABFA12">
     <Binder>
         <BinderItem ID="0" UUID="7C6F4197-9767-482D-BA97-AD1BD24F0CCB" Type="DraftFolder" Created="2013-11-14 12:28:01 +0100" Modified="2013-11-14 12:28:01 +0100">
             <Title>Draft</Title>
@@ -7,14 +7,24 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="34" UUID="E0D200CE-3DE9-4EAF-8199-80A45C37612D" Type="Text" Created="2017-03-15 10:33:55 +0100" Modified="2017-04-29 16:03:26 +0200">
+                <BinderItem ID="36" UUID="F95B04F9-95FF-407A-AAA5-DF7B1EEE861C" Type="Text" Created="2017-06-22 09:21:11 +0200" Modified="2017-06-22 17:03:29 +0200">
+                    <Title>SXSW-Eco</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="34" UUID="E0D200CE-3DE9-4EAF-8199-80A45C37612D" Type="Text" Created="2017-03-15 10:33:55 +0100" Modified="2017-05-23 15:08:52 +0200">
                     <Title>Engage Prague</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>13599,0</TextSelection>
+                        <TextSelection>11851,53</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="35" UUID="DC84FEAE-FF9B-476C-A8B1-4928ECAC34E2" Type="Text" Created="2017-04-27 16:24:49 +0200" Modified="2017-04-27 16:54:45 +0200">
@@ -24,7 +34,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>4670,0</TextSelection>
+                        <TextSelection>4330,338</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="31" UUID="1E413FAB-4468-4DF6-94DC-8AFA8576C7BB" Type="Text" Created="2017-01-26 13:30:26 +0100" Modified="2017-03-09 13:27:09 +0100">
@@ -360,7 +370,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="E0A1E852-BBC3-4F84-8351-7448BEA982C6" Color="0.922 0.91 0.98">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">c</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">privacy</SearchSettings>
         </Collection>
     </Collections>
     <LabelSettings>
@@ -387,7 +397,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-11-14 12:28:00 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2017-05-03 09:40:47 +0200"></PreviousSession>
+        <PreviousSession Words="114" Characters="776" Date="2017-06-22 09:20:13 +0200"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

@@ -801,6 +801,9 @@ So let’s use our public spaces, #TeachTheWeb and work together to provide peop
 
 Thanks so much for listening, and I’m happy to answer any questions you might have.</Text>
         </Document>
+        <Document ID="8">
+            <Title>FITC</Title>
+        </Document>
         <Document ID="32">
             <Title>Open Leadership Institute</Title>
             <Text>	Institute for Open Leadership Application
@@ -895,9 +898,6 @@ The first thing I want to do is see what you guys know about the Web. If you mig
 3. How about Etherpad?
 4. Can you name an Internet meme?
 5. Do you use Internet Explorer as your 1st choice browser?</Text>
-        </Document>
-        <Document ID="8">
-            <Title>FITC</Title>
         </Document>
         <Document ID="24">
             <Title>Connected Learning Alliance - TeachTheWeb</Title>
@@ -1175,9 +1175,12 @@ References
         </Document>
         <Document ID="34">
             <Title>Engage Prague</Title>
-            <Text>Mindbombs and Media
+            <Text>On Friday, I gave a talk at Engage Prague. Here it is:
+Mindbombs and Media
 Abstract: 
 Greenpeace has been using social media since before the Internet existed. In this talk, you’ll hear a story about one of the most iconic brands in the world and how Greenpeace is returning to its roots in a time of social change.
+
+
 
 Talk:
 
@@ -1215,8 +1218,6 @@ Drawing on three quaker principles:
 -Bearing witness and obligation to act
 
 They protested in the streets, they talked about their concerns to others. More people became concerned, but the US Defense department showed no signs of canceling the test. These rabble rousers were’t going to give up. The Don’t Make a Wave Committee  decided to take a ship to Amchitka and protest the US nuclear testing at the site. They threw a benefit concert, raised money and leased a small fishing trawler called the Phyllis Cormack.
-
-MAKE IT A GREENPEACE
 
 The other thing this group of citizen did, though, the thing that the newly formed Greenpeace did that set a chain of events in motion that would lead to the Environmental movement as we understand it today, was storytelling. 
 
