@@ -801,9 +801,6 @@ So let’s use our public spaces, #TeachTheWeb and work together to provide peop
 
 Thanks so much for listening, and I’m happy to answer any questions you might have.</Text>
         </Document>
-        <Document ID="8">
-            <Title>FITC</Title>
-        </Document>
         <Document ID="32">
             <Title>Open Leadership Institute</Title>
             <Text>	Institute for Open Leadership Application
@@ -898,6 +895,9 @@ The first thing I want to do is see what you guys know about the Web. If you mig
 3. How about Etherpad?
 4. Can you name an Internet meme?
 5. Do you use Internet Explorer as your 1st choice browser?</Text>
+        </Document>
+        <Document ID="8">
+            <Title>FITC</Title>
         </Document>
         <Document ID="24">
             <Title>Connected Learning Alliance - TeachTheWeb</Title>
@@ -1662,6 +1662,43 @@ I started to ask myself these questions and answer came to me based on something
 
 Finishing up again on the implications for innovation, this I would actually argue is one of the single biggest challenges we're going to have as organizations. I think it will ultimately impact society and that's very simply the largest wealth creation for everyone that we've ever seen happen. After 1871 we figured out mass manufacturing and we figured out how to be more efficient making stuff for people and it pulled the majority of the world out of subsistence to middle-class. This created an enormous wealth of institution and other types of advancement. We figured out how to produce things more efficiently. We are now entering a world where we've developed world in overtime it is not about more stuff, it's about how we make that's used that stuff more efficiently. We can't know only multiple cars or this or that but how we actually use things more efficiently, how we innovate is going to be the next driver in value for creation for our organization often on a collective basis for society. It's going to be about how we innovate and figure out how our organizations can move more quickly to solve massive problems that we have. That comes down to tools, certainly in IT about tools but its processes mindset. Focusing on the next-generation way of how we all work together to solve big big big problems are happening in the world. We’re still in the relatively I would say early innings of this. I think I will talk to a piece of the other people that you are all working on in your own organizations on how to explore a innovation will be synthesized and people will figure out how to do that even better as we all continue to work forward, but is not just about delivering a more specific feature on your website. This ultimately is going to come down to how we innovate more quickly to solve a lot of problems and a lot of experimentation is going to need to continue to happen. It is a massive challenge but a massive opportunity and the faster we figure these things out, the better off you are children will be. Back to technology, this really does come down to how it's not about any one organization, it is not about proscribing it's about how coalitions and groups of us can work together to solve these problems and is kind of fundamentally advancing. Red Hat does what we believe in through our open organization mission. </Text>
         </Document>
+        <Document ID="36">
+            <Title>SXSW-Eco</Title>
+            <Text>#
+
+Account creation info to enter/edit/submit 
+http://support.sxsw.com/hc/en-us/articles/206427125-Do-I-need-to-have-an-account-to-enter-a-proposal-in-PanelPicker-
+ 
+Eco panel picker 2016
+file:///C:/Users/amoreoferrall/Downloads/SXSW-Eco-PanelPicker-2016.pdf
+ 
+Here are the key requirements from the 2016 picker, though they may change for 2018, let’s base our submission on this. Some of the fields are drop-down selects, so I’ve left them out. 
+ 
+Title: #NoCompetition: Winning the Climate Justice Fight
+
+Intended audience: Novice, general public 
+Description &lt;700 characters&gt;
+People who don’t identify as activists are being empowered to take on active roles in the ideation, design and execution of campaigns. In this session, we will explore how the role of non-profits has changed due to the advancement in technology and examine the tools we have to support and facilitate this movement.
+
+This session will also look at behaviors that spur cultural shifts. Drawing on experience bringing open practices to Greenpeace International and creating people powered movements at the World Wildlife Foundation, Laura and Alice will examine the social and cultural norms that make public activism more or less challenging. 
+Distill session description &lt;200 characters&gt;
+Greenpeace and the World Wildlife Foundation are both working towards climate change justice. Together they are stronger… 
+ 
+Questions that your session will answer regarding the topic proposed:
+Objective 1 &lt;150 characters&gt;
+What are Greenpeace and the WWF doing to help win the climate change fight?
+
+Objective 2 &lt;150 characters&gt;
+Why do people think Greenpeace and the WWF are competitors?
+
+Objective 3 &lt;150 characters&gt;
+What can we do to help? 
+ 
+Resources (videos &amp; visual aides)
+
+
+</Text>
+        </Document>
         <Document ID="19">
             <Title>OpenSym Bullets</Title>
             <Text>Slide 1
@@ -1774,6 +1811,12 @@ Scholarships are available as we want successful applicants to be able to attend
 
 Full participation and active presence at Web of Change is critical for deep relationships and trust to emerge. Can you commit to attending all days of the conference?
 </Text>
+        </Document>
+        <Document ID="37">
+            <Title>People who don’t identify as activists are being empowered</Title>
+            <Text>People who don’t identify as activists are being empowered to take on active roles in the ideation, design and execution of campaigns. In this session, we will explore how the role of non-profits has changed due to the advancement in technology and examine the tools we have to support and facilitate this movement.
+
+This session will also look at behaviors that spur cultural shifts. Drawing on experience bringing open practices to Greenpeace International and creating people powered movements at the World Wildlife Foundation, we will examine the social and cultural norms that make public activism more or less challenging.</Text>
         </Document>
         <Document ID="29">
             <Title>ATO - Participatory Practices to Build Trust</Title>
